@@ -6,9 +6,12 @@ Get iso from [builds.garudalinux.org](builds.garudalinux.org)
 ## Disk Management
 Erase Disk (when installing), okay?
 
+## Preventin the System Panic
+ALways make sure that the zen kernel is loaded from SHUTDOWN and NOT REBOOT.
+
 # II) Post-Install
 
-The first reboot might (or will) cause a system panic (probably due to the zen kernel). Nothing much I can do 🥲
+~~The first reboot might (or will) cause a system panic (probably due to the zen kernel). Nothing much I can do 🥲~~
 
 ## First Steps
 
