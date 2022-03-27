@@ -6,7 +6,7 @@ Get iso from [builds.garudalinux.org](builds.garudalinux.org)
 ## Disk Management
 Erase Disk (when installing), okay?
 
-## Preventin the System Panic
+## Preventing the System Panic
 ALways make sure that the zen kernel is loaded from SHUTDOWN and NOT REBOOT.
 
 # II) Post-Install
