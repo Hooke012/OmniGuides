@@ -45,6 +45,6 @@ WantedBy=multi-user.target
 SigLevel = DatabaseNever Optional TrustAll
 Server = https://arch.asus-linux.org
 ```
-`pacman -Suy`<br>
-Note: [TODO]: Try [linux-g14] or [linux-zen-g14]<br>
-`grub-mkconfig -o /boot/grub/grub.cfg`
+`sudo pacman -Suy`<br>
+`paru linux-g14`<br>
+`sudo grub-mkconfig -o /boot/grub/grub.cfg`
