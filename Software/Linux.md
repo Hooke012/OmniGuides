@@ -1,15 +1,14 @@
 # 1. Pi-Hole
 
 `paru pi-hole-server`<br>
-`systemctl start pihole-FTL.service`<br>
-↘️(If fails)<br>
-`sudo micro /etc/systemd/resolved.conf`
-```
-[Resolve]
-DNSStubListener=no
-```
-`systemctl restart systemd-resolved.service`<br>
-`systemctl restart pihole-FTL.service`<br>
+~~`systemctl start pihole-FTL.service`<br>~~
+~~↘️(If fails)<br>~~
+~~`sudo micro /etc/systemd/resolved.conf`~~
+~~[Resolve]<br>~~
+~~DNSStubListener=no<br>~~
+~~`systemctl restart systemd-resolved.service`<br>~~
+~~`systemctl restart pihole-FTL.service`<br>~~
+`paru php-sqlite`
 `sudo micro /etc/php/php.ini`<br>
 ```
 [...]
@@ -22,7 +21,7 @@ extension=sqlite3
 ```
 `paru lighttpd`<br>
 `paru php-cgi`<br>
-`cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf`<br>
+`sudo cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf`<br>
 `systemctl enable --now lighttpd.service`<br>
 `systemctl start --now lighttpd.service`<br>
 `sudo micro /etc/hosts`
