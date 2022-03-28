@@ -30,6 +30,24 @@ extension=sqlite3
 ~~ip.address.of.pihole~~   pi.hole ~~myhostname~~
 ```
 _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings to only IP address 127.0.0.1_
+
 # 2. TouchPad Indicator
 
 `paru touchpad-indicator`
+
+# 3. Setup Assistant:
+System Update: Yes
+
+### Post-Install
+AppImage Launcher
+Octopi
+Discover
+LibreOffice Fresh
+Vivaldi
+ThunderBird
+Telegram !!
+Discord !!
+FDM !!
+VLC
+OBS Studio
+IntelliJ
