@@ -7,7 +7,7 @@
 ~~[Resolve]<br>~~
 ~~DNSStubListener=no<br>~~
 ~~`systemctl restart systemd-resolved.service`<br>~~
-~~`systemctl restart pihole-FTL.service`<br>~~
+~~`systemctl restart pihole-FTL.service`<br>~~<br>
 `paru php-sqlite`<br>
 `sudo micro /etc/php/php.ini`<br>
 ```
