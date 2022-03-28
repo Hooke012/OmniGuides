@@ -3,12 +3,12 @@
 `paru pi-hole-server`<br>
 ~~`systemctl start pihole-FTL.service`<br>~~
 ~~↘️(If fails)<br>~~
-~~`sudo micro /etc/systemd/resolved.conf`~~
+~~`sudo micro /etc/systemd/resolved.conf`~~<br>
 ~~[Resolve]<br>~~
 ~~DNSStubListener=no<br>~~
 ~~`systemctl restart systemd-resolved.service`<br>~~
 ~~`systemctl restart pihole-FTL.service`<br>~~
-`paru php-sqlite`
+`paru php-sqlite`<br>
 `sudo micro /etc/php/php.ini`<br>
 ```
 [...]
