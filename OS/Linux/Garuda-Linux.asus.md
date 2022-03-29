@@ -1,25 +1,25 @@
 # I) Pre-Install
 
-## ISO
+- ## ISO
 Get iso from [builds.garudalinux.org](builds.garudalinux.org)
 
-## Disk Management
+- ## Disk Management
 Erase Disk (when installing), okay?
 
-## Preventing the System Panic
+- ## Preventing the System Panic
 ALways make sure that the zen kernel is loaded from SHUTDOWN and NOT REBOOT.
 
 # II) Post-Install
 
 ~~The first reboot might (or will) cause a system panic (probably due to the zen kernel). Nothing much I can do 🥲~~
 
-## First Steps
+# First Steps
 
 1. Connect to the internet
 2. Run the setup assistant (completely)
 3. Dont let the system go to sleep while pacman (lol)
 
-### Battery Threshold
+- ## Battery Threshold
 
 ```sudo micro /etc/systemd/system/battery-charge-threshold.service ```
 
@@ -40,7 +40,7 @@ WantedBy=multi-user.target
 `systemctl start battery-charge-threshold.service`<br>
 `systemctl enable battery-charge-threshold.service`
 
-### Linux Kernel
+- ## Linux Kernel
 
 `sudo micro /etc/pacman.conf`
 ```
