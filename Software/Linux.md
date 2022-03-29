@@ -1,4 +1,20 @@
-# 1. Pi-Hole
+# 1. Setup Assistant:
+System Update: Yes
+
+### Post-Install
+AppImage Launcher<br>
+Octopi<br>
+Discover<br>
+LibreOffice Fresh<br>
+Vivaldi<br>
+ThunderBird<br>
+~~Discord !!<br>~~
+~~FDM !!<br>~~
+VLC<br>
+OBS Studio<br>
+IntelliJ<br>
+
+# 2. Pi-Hole
 
 `paru pi-hole-server`<br><br>
 ~~`systemctl start pihole-FTL.service`<br>~~
@@ -31,23 +47,8 @@ extension=sqlite3
 ```
 _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings to only IP address 127.0.0.1_
 
-# 2. TouchPad Indicator
+# 3. paru
 
 `paru touchpad-indicator`
+`paru kotatogram-dev-git`
 
-# 3. Setup Assistant:
-System Update: Yes
-
-### Post-Install
-AppImage Launcher<br>
-Octopi<br>
-Discover<br>
-LibreOffice Fresh<br>
-Vivaldi<br>
-ThunderBird<br>
-~~Telegram !!<br>~~
-~~Discord !!<br>~~
-~~FDM !!<br>~~
-VLC<br>
-OBS Studio<br>
-IntelliJ<br>
