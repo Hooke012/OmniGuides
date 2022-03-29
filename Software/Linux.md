@@ -8,7 +8,7 @@ Discover<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
 ThunderBird<br>
-~~Discord !!<br>~~
+Siscord OR Webcord !!<br>
 ~~FDM !!<br>~~
 VLC<br>
 OBS Studio<br>
