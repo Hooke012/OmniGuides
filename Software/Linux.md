@@ -16,8 +16,8 @@ IntelliJ<br>
 
 # 2. Pi-Hole
 
-`paru pi-hole-server`<br><br>
-~~`systemctl start pihole-FTL.service`<br>~~
+`paru pi-hole-server`<br>
+`systemctl start pihole-FTL.service`<br><br>
 ~~↘️(If fails)<br>~~
 ~~`sudo micro /etc/systemd/resolved.conf`~~<br>
 ~~[Resolve]<br>~~
