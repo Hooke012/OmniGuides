@@ -39,17 +39,15 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 System Update: Yes
 
 ### Post-Install
-```
-AppImage Launcher
-Octopi
-Discover
-LibreOffice Fresh
-Vivaldi
-ThunderBird
-Telegram !!
-Discord !!
-FDM !!
-VLC
-OBS Studio
-IntelliJ
-```
+AppImage Launcher<br>
+Octopi<br>
+Discover<br>
+LibreOffice Fresh<br>
+Vivaldi<br>
+ThunderBird<br>
+Telegram !!<br>
+Discord !!<br>
+FDM !!<br>
+VLC<br>
+OBS Studio<br>
+IntelliJ<br>
