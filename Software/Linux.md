@@ -39,6 +39,7 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 System Update: Yes
 
 ### Post-Install
+```
 AppImage Launcher
 Octopi
 Discover
@@ -51,3 +52,4 @@ FDM !!
 VLC
 OBS Studio
 IntelliJ
+```
