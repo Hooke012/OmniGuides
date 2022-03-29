@@ -1,6 +1,6 @@
 # 1. Pi-Hole
 
-`paru pi-hole-server`<br>
+`paru pi-hole-server`<br><br>
 ~~`systemctl start pihole-FTL.service`<br>~~
 ~~↘️(If fails)<br>~~
 ~~`sudo micro /etc/systemd/resolved.conf`~~<br>
