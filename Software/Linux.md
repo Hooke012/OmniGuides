@@ -45,9 +45,9 @@ Discover<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
 ThunderBird<br>
-Telegram !!<br>
-Discord !!<br>
-FDM !!<br>
+~~Telegram !!<br>~~
+~~Discord !!<br>~~
+~~FDM !!<br>~~
 VLC<br>
 OBS Studio<br>
 IntelliJ<br>
