@@ -49,6 +49,5 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 
 # 3. paru
 
-`paru touchpad-indicator`
+`paru touchpad-indicator`<br>
 `paru kotatogram-dev-git`
-
