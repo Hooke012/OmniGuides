@@ -29,7 +29,7 @@ Detect Dark Theme
 ```
 2. [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 3. [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-4. [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+4. [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/)
 5. [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/)
 6. [firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts)
 7. [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)
