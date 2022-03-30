@@ -8,7 +8,6 @@ Discover<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
 ThunderBird<br>
-Siscord OR Webcord OR PowerCord!!<br>
 ~~FDM !!<br>~~
 VLC<br>
 OBS Studio<br>
@@ -50,4 +49,5 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 # 3. paru
 
 `paru touchpad-indicator`<br>
-`paru kotatogram-dev-git`
+`paru kotatogram-dev-git`<br>
+`paru webcord`
