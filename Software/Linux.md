@@ -1,3 +1,10 @@
+# TODO
+
+Opensnitch
+Spotify !!
+VPN !!
+
+
 # 1. Setup Assistant:
 System Update: Yes
 
