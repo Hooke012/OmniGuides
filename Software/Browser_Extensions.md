@@ -20,7 +20,13 @@ Add: * * 3p-frame block
 
 ## Other Addons
 
-1. [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) 
+### 1. [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) 
+```
+Preview New Design
+Apply
+Synchronise Site Fixes
+Detect Dark Theme
+```
 2. [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 3. [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 4. [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
