@@ -50,4 +50,25 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 
 `paru touchpad-indicator`<br>
 `paru kotatogram-dev-git`<br>
-`paru webcord`
+`paru webcord`<br>
+`paru python-pip`<br>
+`pip install --pre pyload-ng[all]`<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+`paru `<br>
+
