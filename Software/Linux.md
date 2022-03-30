@@ -8,7 +8,7 @@ Discover<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
 ThunderBird<br>
-~~FDM !!<br>~~
+Xtreme Download Manager<br>
 VLC<br>
 OBS Studio<br>
 IntelliJ<br>
