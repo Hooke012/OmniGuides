@@ -1,9 +1,9 @@
 # TODO
 
-Opensnitch
 Spotify !!
 VPN !!
-
+Whatsapp !!
+qbittorent !!
 
 # 1. Setup Assistant:
 System Update: Yes
@@ -20,9 +20,13 @@ VLC<br>
 OBS Studio<br>
 IntelliJ<br>
 
+# 1.5 YAY
+
+`paru yay`
+
 # 2. Pi-Hole
 
-`paru pi-hole-server`<br>
+`yay pi-hole-server`<br>
 `systemctl start pihole-FTL.service`<br><br>
 ~~↘️(If fails)<br>~~
 ~~`sudo micro /etc/systemd/resolved.conf`~~<br>
@@ -30,7 +34,7 @@ IntelliJ<br>
 ~~DNSStubListener=no<br>~~
 ~~`systemctl restart systemd-resolved.service`<br>~~
 ~~`systemctl restart pihole-FTL.service`<br>~~<br>
-`paru php-sqlite`<br>
+`yay php-sqlite`<br>
 `sudo micro /etc/php/php.ini`<br>
 ```
 [...]
@@ -41,8 +45,8 @@ extension=sockets
 extension=sqlite3
 [...]
 ```
-`paru lighttpd`<br>
-`paru php-cgi`<br>
+`yay lighttpd`<br>
+`yay php-cgi`<br>
 `sudo cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf`<br>
 `systemctl enable --now lighttpd.service`<br>
 `systemctl start --now lighttpd.service`<br>
@@ -53,27 +57,27 @@ extension=sqlite3
 ```
 _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings to only IP address 127.0.0.1_
 
-# 3. paru
+# 3. yay
 
-`paru touchpad-indicator`<br>
-`paru kotatogram-dev-git`<br>
-`paru webcord`<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
-`paru `<br>
+`yay touchpad-indicator`<br>
+`yay kotatogram-dev-git`<br>
+`yay webcord`<br>
+`yay freetube`<br>
+`yay pdfarranger`<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
+`yay `<br>
 
