@@ -52,8 +52,8 @@ extension=sqlite3
 `systemctl start --now lighttpd.service`<br>
 `sudo micro /etc/hosts`
 ```
-127.0.0.1              localhost
-~~ip.address.of.pihole~~   pi.hole ~~myhostname~~
+127.0.0.1  localhost
+127.0.0.1  pi.hole <hostname>
 ```
 _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings to only IP address 127.0.0.1_
 
