@@ -65,7 +65,7 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 `yay freetube`<br>
 `yay pdfarranger`<br>
 `yay protonvpn-gui`<br>
-`yay `<br>
+`yay spicetify-cli`<br>
 `yay `<br>
 `yay `<br>
 `yay `<br>
