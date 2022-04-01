@@ -77,6 +77,17 @@ spicetify update
 <br>
 
 `yay spicetify-themes-git`<br>
+```
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+cd "$(dirname "$(spicetify -c)")/Themes"
+git clone https://github.com/Daksh777/SpotifyNoPremium
+spicetify config current_theme SpotifyNoPremium
+cp "$(dirname "$(spicetify -c)")/Themes/SpotifyNoPremium/adblock.js" "$(dirname "$(spicetify -c)")/Extensions"
+spicetify config extensions adblock.js
+spicetify apply
+```
+<br>
+
 `yay `<br>
 `yay `<br>
 `yay `<br>
