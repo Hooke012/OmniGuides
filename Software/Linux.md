@@ -1,7 +1,6 @@
 # TODO
 
 Spotify !!
-VPN !!
 Whatsapp !!
 qbittorent !!
 
