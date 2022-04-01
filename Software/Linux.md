@@ -64,8 +64,13 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 `yay webcord`<br>
 `yay freetube`<br>
 `yay pdfarranger`<br>
-`yay protonvpn-gui`<br>
+`yay protonvpn-gui`<br><br>
 `yay spicetify-cli`<br>
+```
+sudo chmod a+wr /opt/spotify
+sudo chmod a+wr /opt/spotify/Apps -R
+```
+<br>
 `yay `<br>
 `yay `<br>
 `yay `<br>
