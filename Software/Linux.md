@@ -3,6 +3,7 @@
 Spotify !!
 Whatsapp !!
 qbittorent !!
+Reddit !!
 
 # 1. Setup Assistant:
 System Update: Yes
