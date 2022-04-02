@@ -69,7 +69,6 @@ yay protonvpn-gui
 yay spotify
 yay spicetify-cli-git
 yay spicetify-themes-git
-yay spotify-tray-git
 ```
 
 ```
@@ -82,4 +81,8 @@ spicetify update
 
 ```
 curl -fsSL https://raw.githubusercontent.com/JulienMaille/dribbblish-dynamic-theme/master/install.sh | sh
+```
+
+```
+yay spotify-tray-git
 ```
