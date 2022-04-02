@@ -84,4 +84,5 @@ curl -fsSL https://raw.githubusercontent.com/JulienMaille/dribbblish-dynamic-the
 
 ```
 yay spotify-tray-git
+yay whatsapp-for-linux
 ```
