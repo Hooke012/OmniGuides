@@ -75,6 +75,7 @@ spicetify update
 ```
 <br>
 `yay spicetify-themes-git`<br>
+
 ```
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
 cd "$(dirname "$(spicetify -c)")/Themes"
