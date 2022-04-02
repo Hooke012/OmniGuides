@@ -61,8 +61,6 @@ sudo micro /etc/hosts
 127.0.0.1  pi.hole <hostname>
 ```
 
-Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings to only IP address 127.0.0.1_
-
 # 3. yay
 
 ```
