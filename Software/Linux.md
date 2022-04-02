@@ -1,9 +1,5 @@
 # TODO
 
-Whatsapp !!
-qbittorent !!
-Reddit !!
-
 # 1. Setup Assistant:
 System Update: Yes
 
@@ -85,4 +81,5 @@ curl -fsSL https://raw.githubusercontent.com/JulienMaille/dribbblish-dynamic-the
 ```
 yay spotify-tray-git
 yay whatsapp-for-linux
+yay qbittorrent-enhanced-qt5
 ```
