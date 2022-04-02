@@ -66,6 +66,8 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 `yay pdfarranger`<br>
 `yay protonvpn-gui`<br><br>
 `yay spicetify-cli`<br>
+`yay spicetify-themes-git`<br>
+
 ```
 sudo chmod a+wr /opt/spotify
 sudo chmod a+wr /opt/spotify/Apps -R
@@ -73,8 +75,6 @@ spicetify
 spicetify backup apply enable-devtool
 spicetify update
 ```
-<br>
-`yay spicetify-themes-git`<br>
 
 ```
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
