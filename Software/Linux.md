@@ -60,15 +60,16 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 # 3. yay
 
 ```
-yay touchpad-indicator
+yay touchpad-indicator-git
 yay kotatogram-dev-git
 yay webcord
 yay freetube
 yay pdfarranger
 yay protonvpn-gui
 yay spotify
-yay spicetify-cli
+yay spicetify-cli-git
 yay spicetify-themes-git
+yay spotify-tray-git
 ```
 
 ```
