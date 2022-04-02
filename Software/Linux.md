@@ -74,7 +74,6 @@ spicetify backup apply enable-devtool
 spicetify update
 ```
 <br>
-
 `yay spicetify-themes-git`<br>
 ```
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
