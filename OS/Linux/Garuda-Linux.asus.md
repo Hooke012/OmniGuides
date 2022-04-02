@@ -37,8 +37,11 @@ ExecStart=/bin/bash -c 'echo 80 > /sys/class/power_supply/BAT?/charge_control_en
 [Install]
 WantedBy=multi-user.target
 ```
-`systemctl start battery-charge-threshold.service`<br>
-`systemctl enable battery-charge-threshold.service`
+
+```
+systemctl start battery-charge-threshold.service
+systemctl enable battery-charge-threshold.service
+```
 
 - ## Linux Kernel
 
@@ -48,6 +51,9 @@ WantedBy=multi-user.target
 SigLevel = DatabaseNever Optional TrustAll
 Server = https://arch.asus-linux.org
 ```
-`sudo pacman -Suy`<br>
-`paru linux-g14`<br>
-`sudo grub-mkconfig -o /boot/grub/grub.cfg`
+
+```
+sudo pacman -Suy
+paru linux-g14
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+```
