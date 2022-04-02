@@ -59,14 +59,17 @@ _Pi-Hole hosting device can also make use of Pi-Hole. Just change DNS settings t
 
 # 3. yay
 
-`yay touchpad-indicator`<br>
-`yay kotatogram-dev-git`<br>
-`yay webcord`<br>
-`yay freetube`<br>
-`yay pdfarranger`<br>
-`yay protonvpn-gui`<br>
-`yay spicetify-cli`<br>
-`yay spicetify-themes-git`<br>
+```
+yay touchpad-indicator
+yay kotatogram-dev-git
+yay webcord
+yay freetube
+yay pdfarranger
+yay protonvpn-gui
+yay spotify
+yay spicetify-cli
+yay spicetify-themes-git
+```
 
 ```
 sudo chmod a+wr /opt/spotify
@@ -85,19 +88,3 @@ cp "$(dirname "$(spicetify -c)")/Themes/SpotifyNoPremium/adblock.js" "$(dirname 
 spicetify config extensions adblock.js
 spicetify apply
 ```
-
-<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-`yay `<br>
-
