@@ -74,6 +74,7 @@ spicetify backup apply enable-devtool
 spicetify update
 ```
 <br>
+
 `yay spicetify-themes-git`<br>
 ```
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
@@ -84,6 +85,7 @@ cp "$(dirname "$(spicetify -c)")/Themes/SpotifyNoPremium/adblock.js" "$(dirname 
 spicetify config extensions adblock.js
 spicetify apply
 ```
+
 <br>
 
 `yay `<br>
