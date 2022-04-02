@@ -1,6 +1,5 @@
 # TODO
 
-Spotify !!
 Whatsapp !!
 qbittorent !!
 Reddit !!
