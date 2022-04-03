@@ -25,7 +25,7 @@ Server = https://arch.asus-linux.org
 ```
 
 ```
-sudo pacman -Suy
+sudo pacman -Sy
 paru linux-g14
 sudo micro /etc/default/grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
