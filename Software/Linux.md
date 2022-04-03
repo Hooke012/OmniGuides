@@ -13,10 +13,6 @@ VLC<br>
 OBS Studio<br>
 IntelliJ<br>
 
-# 1.5 YAY
-
-`paru yay`
-
 # 2. Pi-Hole
 
 ```
