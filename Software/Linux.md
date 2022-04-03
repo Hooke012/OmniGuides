@@ -135,6 +135,11 @@ server:
 ```
 sudo unbound -c /etc/unbound/unbound.conf.d/pi-hole.conf
 dig pi-hole.net @127.0.0.1 -p 5335
+sudo micro /etc/dnsmasq.d/99-edns.conf
+```
+
+```
+edns-packet-max=1232
 ```
 
 # 3. yay
