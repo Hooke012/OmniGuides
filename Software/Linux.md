@@ -61,7 +61,7 @@ sudo micro /etc/hosts
 127.0.0.1  pi.hole <hostname>
 ```
 
-# 2.5 Unbound
+# 2.5 [Unbound](https://docs.pi-hole.net/guides/dns/unbound/)
 
 
 # 3. yay
