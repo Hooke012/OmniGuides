@@ -74,6 +74,9 @@ yay freetube
 yay pdfarranger
 yay protonvpn-gui
 yay spotify
+yay spotify-tray-git
+yay whatsapp-for-linux
+yay qbittorrent-enhanced-qt5
 yay spicetify-cli-git
 yay spicetify-themes-git
 ```
@@ -90,8 +93,3 @@ spicetify update
 curl -fsSL https://raw.githubusercontent.com/JulienMaille/dribbblish-dynamic-theme/master/install.sh | sh
 ```
 
-```
-yay spotify-tray-git
-yay whatsapp-for-linux
-yay qbittorrent-enhanced-qt5
-```
