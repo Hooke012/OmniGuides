@@ -31,7 +31,7 @@ sudo micro /etc/default/grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
-# [Reboot](https://github.com/Hooke012/OmniGuides/blob/main/Software/Linux.md)
+# Reboot
 
 - ## Battery Threshold
 
@@ -56,3 +56,5 @@ WantedBy=multi-user.target
 systemctl start battery-charge-threshold.service
 systemctl enable battery-charge-threshold.service
 ```
+
+# [Proceed](https://github.com/Hooke012/OmniGuides/blob/main/Software/Linux.md)
