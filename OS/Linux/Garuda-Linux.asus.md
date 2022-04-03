@@ -15,6 +15,24 @@ ALways make sure that the zen kernel is loaded from SHUTDOWN and NOT REBOOT.
 
 1. Say no to the setup assistant, Do these and then reboot
 
+- ## Linux Kernel
+
+`sudo micro /etc/pacman.conf`
+```
+[g14]
+SigLevel = DatabaseNever Optional TrustAll
+Server = https://arch.asus-linux.org
+```
+
+```
+sudo pacman -Suy
+paru linux-g14
+sudo micro /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+```
+
+# [Reboot](https://github.com/Hooke012/OmniGuides/blob/main/Software/Linux.md)
+
 - ## Battery Threshold
 
 ```sudo micro /etc/systemd/system/battery-charge-threshold.service ```
@@ -38,21 +56,3 @@ WantedBy=multi-user.target
 systemctl start battery-charge-threshold.service
 systemctl enable battery-charge-threshold.service
 ```
-
-- ## Linux Kernel
-
-`sudo micro /etc/pacman.conf`
-```
-[g14]
-SigLevel = DatabaseNever Optional TrustAll
-Server = https://arch.asus-linux.org
-```
-
-```
-sudo pacman -Suy
-paru linux-g14
-sudo micro /etc/default/grub
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-```
-
-# [Reboot](https://github.com/Hooke012/OmniGuides/blob/main/Software/Linux.md)
