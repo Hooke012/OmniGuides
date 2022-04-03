@@ -69,7 +69,7 @@ server:
     # logfile: "/var/log/unbound/unbound.log"
     verbosity: 0
 
-    interface: 127.0.0.1edns-packet-max=1232
+    interface: 127.0.0.1
     port: 5335
     do-ip4: yes
     do-udp: yes
