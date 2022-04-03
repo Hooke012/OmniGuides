@@ -11,13 +11,9 @@ ALways make sure that the zen kernel is loaded from SHUTDOWN and NOT REBOOT.
 
 # II) Post-Install
 
-~~The first reboot might (or will) cause a system panic (probably due to the zen kernel). Nothing much I can do 🥲~~
-
 # First Steps
 
-1. Connect to the internet
-2. Run the setup assistant (completely)
-3. Dont let the system go to sleep while pacman (lol)
+1. Say no to the setup assistant, Do these and then reboot
 
 - ## Battery Threshold
 
@@ -55,5 +51,8 @@ Server = https://arch.asus-linux.org
 ```
 sudo pacman -Suy
 paru linux-g14
+sudo micro /etc/default/grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
+
+# [Reboot](https://github.com/Hooke012/OmniGuides/blob/main/Software/Linux.md)
