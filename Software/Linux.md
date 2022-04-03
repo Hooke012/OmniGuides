@@ -16,7 +16,7 @@ IntelliJ<br>
 # 2. Pi-Hole
 
 ```
-yay pi-hole-server
+paru pi-hole-server
 systemctl start pihole-FTL.service
 ```
 ~~↘️(If fails)<br>~~
@@ -27,7 +27,7 @@ systemctl start pihole-FTL.service
 ~~`systemctl restart pihole-FTL.service`<br>~~<br>
 
 ```
-yay php-sqlite
+paru php-sqlite
 sudo micro /etc/php/php.ini
 ```
 
@@ -42,8 +42,8 @@ extension=sqlite3
 ```
 
 ```
-yay lighttpd
-yay php-cgi
+paru lighttpd
+paru php-cgi
 sudo cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf
 systemctl enable --now lighttpd.service
 systemctl start --now lighttpd.service
@@ -69,7 +69,7 @@ server:
     # logfile: "/var/log/unbound/unbound.log"
     verbosity: 0
 
-    interface: 127.0.0.1
+    interface: 127.0.0.1edns-packet-max=1232
     port: 5335
     do-ip4: yes
     do-udp: yes
@@ -142,21 +142,21 @@ sudo micro /etc/dnsmasq.d/99-edns.conf
 edns-packet-max=1232
 ```
 
-# 3. yay
+# 3. paru
 
 ```
-yay touchpad-indicator-git
-yay kotatogram-dev-git
-yay webcord
-yay freetube
-yay pdfarranger
-yay protonvpn-gui
-yay spotify
-yay spotify-tray-git
-yay whatsapp-for-linux
-yay qbittorrent-enhanced-qt5
-yay spicetify-cli-git
-yay spicetify-themes-git
+paru touchpad-indicator-git
+paru kotatogram-dev-git
+paru webcord
+paru freetube
+paru pdfarranger
+paru protonvpn-gui
+paru spotify
+paru spotify-tray-git
+paru whatsapp-for-linux
+paru qbittorrent-enhanced-qt5
+paru spicetify-cli-git
+paru spicetify-themes-git
 ```
 
 ```
