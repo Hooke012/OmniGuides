@@ -170,4 +170,15 @@ spicetify update
 ```
 curl -fsSL https://raw.githubusercontent.com/JulienMaille/dribbblish-dynamic-theme/master/install.sh | sh
 ```
+# 4. Proceed to Set up ALL of the apps
+
+TouchPad-Indicator
+FireDragon
+Vivaldi 
+Kotatogram
+Webcord
+FreeTube
+ProtonVPN
+Spotify + Dribblish Dynaminc
+XDM
 
