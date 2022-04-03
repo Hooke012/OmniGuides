@@ -1,5 +1,3 @@
-# TODO
-
 # 1. Setup Assistant:
 System Update: Yes
 
