@@ -34,4 +34,3 @@ Detect Dark Theme
 6. [UI.Vision RPA](https://addons.mozilla.org/en-US/firefox/addon/rpa/)
 7. [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 8. [xBrowserSync](https://addons.mozilla.org/en-GB/firefox/addon/xbs/)
-- Add the Sync ID
