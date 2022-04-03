@@ -31,7 +31,7 @@ sudo micro /etc/default/grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
-# Reboot
+-  # Reboot
 
 - ## Battery Threshold
 
