@@ -24,6 +24,8 @@ SigLevel = DatabaseNever Optional TrustAll
 Server = https://arch.asus-linux.org
 ```
 
+Edit the default grub entry AND disable submenus
+
 ```
 sudo pacman -Sy
 paru linux-g14
