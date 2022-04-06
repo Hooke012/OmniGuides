@@ -1,6 +1,9 @@
 # Lineage OS
 
+crDroid (Holy Fuck)
 [https://lineageosroms.com/mido/](https://lineageosroms.com/mido/)
+https://en.miui.com/unlock/download_en.html
+
 # Browsers
 * Bromite
 * Iceraven ⭐
