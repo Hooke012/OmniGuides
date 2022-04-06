@@ -1,3 +1,6 @@
+# Lineage OS
+
+[https://lineageosroms.com/mido/](https://lineageosroms.com/mido/)
 # Browsers
 * Bromite
 * Iceraven ⭐
@@ -22,6 +25,10 @@
 ## 3. Discord
 
 * AliuCord ⭐
+
+## 4. Spotify
+
+* [Spotube](https://github.com/KRTirtho/spotube): 
 
 # Firewall, Ad-Blockers, DNS
 
