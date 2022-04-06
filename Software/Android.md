@@ -7,19 +7,19 @@
 
 # Frontends / Clients
 
-1. Youtube:
+## 1. Youtube:
 
 * Newpipe<br>&emsp;↘️NewPipe x Sponsorblock ⭐<br>&emsp;&emsp;↘️Skiptube ⭐
 * VueTube
 * LibreTube
 
-2. Reddit:
+## 2. Reddit:
 
 * Stealth ⭐
 * Infinity-For-Reddit
 * RedReader
 
-3. Discord
+## 3. Discord
 
 * AliuCord ⭐
 
