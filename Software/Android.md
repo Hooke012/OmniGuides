@@ -50,9 +50,9 @@
 | [VectorCamera](https://github.com/dozingcat/VectorCamera) | [F-Droid](https://f-droid.org/packages/com.dozingcatsoftware.vectorcamera/) | [Play Store](https://play.google.com/store/apps/details?id=com.dozingcatsoftware.vectorcamera) |
 | [FlorisBoard](https://github.com/florisboard/florisboard) | [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard) | |
 | [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager) | [Play Store](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
-| [forecastie](https://github.com/martykan/forecastie) | [F-Droid](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie) | [Play Store]() |
-| [ForkGram](https://github.com/Forkgram/TelegramAndroid) | [F-Droid](https://f-droid.org/app/org.forkgram.messenger) | [Play Store]()  |
-| [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) | [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/) | [Play Store]()  |
+| [forecastie](https://github.com/martykan/forecastie) | [F-Droid](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie) | [Play Store](https://play.google.com/store/apps/details?id=com.casticalabs.forecastie) |
+| [ForkGram](https://github.com/Forkgram/TelegramAndroid) | [F-Droid](https://f-droid.org/app/org.forkgram.messenger) | |
+| [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) | [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/) | [Play Store](https://play.google.com/store/apps/details?id=com.tachibana.downloader) |
 | [Easer](https://github.com/renyuneyun/Easer) | [F-Droid](https://f-droid.org/packages/ryey.easer/) | [Play Store]()  |
 | [Watomatic](https://github.com/adeekshith/watomatic) | [F-Droid](https://f-droid.org/en/packages/com.parishod.watomatic/) | [Play Store]()  |
 | [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) | [F-Droid](https://f-droid.org/en/packages/com.physphil.android.unitconverterultimate/) | [Play Store]()  |
