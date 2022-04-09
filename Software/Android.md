@@ -1,6 +1,4 @@
-# Lineage OS
-
-crDroid
+# crDroid
 
 # Browsers
 * Bromite ⭐
@@ -45,6 +43,7 @@ crDroid
 # Others
 
 * [Simple Mobile Tools* microMathematics](https://github.com/SimpleMobileTools) : Play Store...
+* [FairEmail](https://github.com/M66B/FairEmail): https://f-droid.org/en/packages/eu.faircode.email/
 * NCALC+
 * OpenContacts
 * AsciiCam
@@ -53,7 +52,6 @@ crDroid
 * Kiss Launcher
 * muzei
 * forecastie
-* K-9 Mail
 * ForkGram
 * Navi
 * Bitwarden: Play Store...
