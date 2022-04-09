@@ -57,8 +57,8 @@
 | [Watomatic](https://github.com/adeekshith/watomatic) | [F-Droid](https://f-droid.org/en/packages/com.parishod.watomatic/) | [Play Store](https://play.google.com/store/apps/details?id=com.parishod.watomatic)  |
 | [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) | [F-Droid](https://f-droid.org/en/packages/com.physphil.android.unitconverterultimate/) | [Play Store](https://play.google.com/store/apps/details?id=com.physphil.android.unitconverterultimate)  |
 | [PDF Converter](https://github.com/Swati4star/Images-to-PDF) | [F-Droid](https://f-droid.org/packages/swati4star.createpdf/) | [Play Store](https://play.google.com/store/apps/details?id=swati4star.createpdf)  |
-| [audiohq](https://github.com/Alcatraz323/audiohq_md2) | [IzzyOnDroid](https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq) | [Play Store]()  |
-| [Randomix](https://github.com/m-i-n-a-r/randomix) | [F-Droid](https://f-droid.org/packages/com.minar.randomix/) | [Play Store]()  |
-| [FindMyDevice](https://gitlab.com/Nulide/findmydevice) | [F-Droid](https://f-droid.org/packages/de.nulide.findmydevice/) | [Play Store]() |
-| [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) | [F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif) | [Play Store]()  |
+| [audiohq](https://github.com/Alcatraz323/audiohq_md2) | [IzzyOnDroid](https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq) | |
+| [Randomix](https://github.com/m-i-n-a-r/randomix) | [F-Droid](https://f-droid.org/packages/com.minar.randomix/) | [Play Store](https://play.google.com/store/apps/details?id=com.minar.randomix) |
+| [FindMyDevice](https://gitlab.com/Nulide/findmydevice) | [F-Droid](https://f-droid.org/packages/de.nulide.findmydevice/) | |
+| [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) | [F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif) | [Play Store](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) |
 
