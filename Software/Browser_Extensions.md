@@ -27,10 +27,12 @@ Apply
 Synchronise Site Fixes
 Detect Dark Theme
 ```
-2. [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
-3. [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-4. [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/)
-5. [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)
-6. [UI.Vision RPA](https://addons.mozilla.org/en-US/firefox/addon/rpa/)
-7. [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
-8. [xBrowserSync](https://addons.mozilla.org/en-GB/firefox/addon/xbs/)
+| S.No. | Extension | Firefox | Chromium |
+|-|-|-|-|
+| 2. | ClearURLs | https://addons.mozilla.org/en-US/firefox/addon/clearurls/ | |
+| 3. | Bitwarden | https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/ | |
+| 4. | LocalCDN | https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/ | |
+| 5. | LibRedirect | https://addons.mozilla.org/en-US/firefox/addon/libredirect/ | |
+| 6. | UI.Vision RPA | https://addons.mozilla.org/en-US/firefox/addon/rpa/ | |
+| 7. | Violentmonkey | https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/ | |
+| 8. | xBrowserSync | https://addons.mozilla.org/en-GB/firefox/addon/xbs/ | |
