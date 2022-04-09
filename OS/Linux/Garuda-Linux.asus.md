@@ -13,7 +13,7 @@ ALways make sure that the zen kernel is loaded from SHUTDOWN and NOT REBOOT.
 
 # First Steps
 
-1. Say no to the setup assistant, Do these and then reboot
+1. Say no to the setup assistant, Do these.
 
 - ## Linux Kernel
 
