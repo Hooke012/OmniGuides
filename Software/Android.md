@@ -17,7 +17,7 @@
 
 ## 2. Reddit:
 
-* [Stealth](https://gitlab.com/cosmosapps/stealth) : https://f-droid.org/packages/com.cosmos.unreddit/ ⭐
+* [Stealth](https://gitlab.com/cosmosapps/stealth) : [F-Droid](https://f-droid.org/packages/com.cosmos.unreddit/ ⭐
 * Infinity-For-Reddit
 
 ## 3. Discord
@@ -30,32 +30,34 @@
 
 # Firewall, Ad-Blockers, DNS
 
-* [Adaway](https://github.com/AdAway/AdAway) : https://f-droid.org/packages/org.adaway/ ⭐
+* [Adaway](https://github.com/AdAway/AdAway) : [F-Droid](https://f-droid.org/packages/org.adaway/ ⭐
 * NetGuard
 * Blockada 5 
 
 # App Stores
 
-* [Neo-Store](https://github.com/NeoApplications/Neo-Store) : https://f-droid.org/packages/com.looker.droidify/
-* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : https://f-droid.org/en/packages/com.aurora.store/
+* [Neo-Store](https://github.com/NeoApplications/Neo-Store) : [F-Droid](https://f-droid.org/packages/com.looker.droidify/
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : [F-Droid](https://f-droid.org/en/packages/com.aurora.store/
 
 # Others
+| App                                                                          | F-Droid                                                                                  | Play Store  |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---|
+| Bitwarden                                                                    | Fdroid Repo                                                                              |   |
+| [microMathematics](https://github.com/mkulesh/microMathematics)              | : [F-Droid](https://f-droid.org/packages/com.mkulesh.micromath.plus)                     |   |
+| [FairEmail](https://github.com/M66B/FairEmail)                               | : [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/)                          |   |
+| [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts)                 | : [F-Droid](https://f-droid.org/app/opencontacts.open.com.opencontacts)                  |   |
+| [VectorCamera](https://github.com/dozingcat/VectorCamera)                    | : [F-Droid](https://f-droid.org/packages/com.dozingcatsoftware.vectorcamera/)            |   |
+| [FlorisBoard](https://github.com/florisboard/florisboard)                    | : [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)                    |   |
+| [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager)            | : [F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)                         |   |
+| [forecastie](https://github.com/martykan/forecastie)                         | : [F-Droid](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)          |   |
+| [ForkGram](https://github.com/Forkgram/TelegramAndroid)                      | : [F-Droid](https://f-droid.org/app/org.forkgram.messenger)                              |   |
+| [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)        | : [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)                   |   |
+| [Easer](https://github.com/renyuneyun/Easer)                                 | : [F-Droid](https://f-droid.org/packages/ryey.easer/)                                    |   |
+| [Watomatic](https://github.com/adeekshith/watomatic)                         | : [F-Droid](https://f-droid.org/en/packages/com.parishod.watomatic/)                     |   |
+| [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) | : [F-Droid](https://f-droid.org/en/packages/com.physphil.android.unitconverterultimate/) |   |
+| [PDF Converter](https://github.com/Swati4star/Images-to-PDF)                 | : [F-Droid](https://f-droid.org/packages/swati4star.createpdf/)                          |   |
+| [audiohq](https://github.com/Alcatraz323/audiohq_md2)                        | : [IzzyOnDroid](https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq)                |   |
+| [Randomix](https://github.com/m-i-n-a-r/randomix)                            | : [F-Droid](https://f-droid.org/packages/com.minar.randomix/)                            |   |
+| [FindMyDevice](https://gitlab.com/Nulide/findmydevice)                       | : [F-Droid](https://f-droid.org/packages/de.nulide.findmydevice/)                        |   |
+| [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)           | : [F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif)                |   |
 
-* Bitwarden: Fdroid Repo
-* [microMathematics](https://github.com/mkulesh/microMathematics) : https://f-droid.org/packages/com.mkulesh.micromath.plus
-* [FairEmail](https://github.com/M66B/FairEmail) : https://f-droid.org/en/packages/eu.faircode.email/
-* [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) : https://f-droid.org/app/opencontacts.open.com.opencontacts
-* [VectorCamera](https://github.com/dozingcat/VectorCamera) : https://f-droid.org/packages/com.dozingcatsoftware.vectorcamera/
-* [FlorisBoard](https://github.com/florisboard/florisboard) : https://f-droid.org/packages/dev.patrickgold.florisboard
-* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) : https://f-droid.org/packages/com.amaze.filemanager/
-* [forecastie](https://github.com/martykan/forecastie) : https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie
-* [ForkGram](https://github.com/Forkgram/TelegramAndroid) : https://f-droid.org/app/org.forkgram.messenger
-* [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) : https://f-droid.org/en/packages/com.tachibana.downloader/
-* [Easer](https://github.com/renyuneyun/Easer) : https://f-droid.org/packages/ryey.easer/
-* [Watomatic](https://github.com/adeekshith/watomatic) : https://fdroid.org/en/packages/com.parishod.watomatic/
-* [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) : https://fdroid.org/en/packages/com.physphil.android.unitconverterultimate/
-* [PDF Converter](https://github.com/Swati4star/Images-to-PDF) : https://f-droid.org/packages/swati4star.createpdf/ 
-* [audiohq](https://github.com/Alcatraz323/audiohq_md2) : https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq
-* [Randomix](https://github.com/m-i-n-a-r/randomix) : https://f-droid.org/packages/com.minar.randomix/
-* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) : https://f-droid.org/packages/de.nulide.findmydevice/
-* [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) : https://f-droid.org/app/com.jarsilio.android.scrambledeggsif
