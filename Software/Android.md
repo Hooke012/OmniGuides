@@ -25,26 +25,26 @@ crDroid
 
 ## 3. Discord
 
-* AliuCord ⭐
+* [AliuCord](https://github.com/Aliucord/Aliucord) : https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk ⭐
 
 ## 4. Spotify
 
-* [Spotube](https://github.com/KRTirtho/spotube): 
+* [Spotube](https://github.com/KRTirtho/spotube) : [Releases](https://github.com/krtirtho/spotube/releases) --> Android-allarch
 
 # Firewall, Ad-Blockers, DNS
 
+* [Adaway](https://github.com/AdAway/AdAway) : https://f-droid.org/packages/org.adaway/ ⭐
 * NetGuard
-* Blockada 5 ⭐
-* Adaway
+* Blockada 5 
 
 # App Stores
 
-* 
-* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore): https://f-droid.org/en/packages/com.aurora.store/ ⭐
+* [Neo-Store](https://github.com/NeoApplications/Neo-Store) : https://f-droid.org/packages/com.looker.droidify/
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : https://f-droid.org/en/packages/com.aurora.store/
 
 # Others
 
-* [Simple Mobile Tools* microMathematics](https://github.com/SimpleMobileTools): Play Store...
+* [Simple Mobile Tools* microMathematics](https://github.com/SimpleMobileTools) : Play Store...
 * NCALC+
 * OpenContacts
 * AsciiCam
@@ -57,13 +57,13 @@ crDroid
 * ForkGram
 * Navi
 * Bitwarden: Play Store...
-* [Easer](https://github.com/renyuneyun/Easer): https://f-droid.org/packages/ryey.easer/
-* [Watomatic](https://github.com/adeekshith/watomatic): https://fdroid.org/en/packages/com.parishod.watomatic/
-* [Kde Connect](https://github.com/KDE/kdeconnect-android): Play Store...
-* [Loop Habit Tracker](https://github.com/iSoron/uhabits): 
-* [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate): https://fdroid.org/en/packages/com.physphil.android.unitconverterultimate/
-* [PDF Converter](https://github.com/Swati4star/Images-to-PDF): https://f-droid.org/packages/swati4star.createpdf/ 
-* [audiohq](https://github.com/Alcatraz323/audiohq_md2): https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq
+* [Easer](https://github.com/renyuneyun/Easer) : https://f-droid.org/packages/ryey.easer/
+* [Watomatic](https://github.com/adeekshith/watomatic) : https://fdroid.org/en/packages/com.parishod.watomatic/
+* [Kde Connect](https://github.com/KDE/kdeconnect-android) : Play Store...
+* [Loop Habit Tracker](https://github.com/iSoron/uhabits) : 
+* [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) : https://fdroid.org/en/packages/com.physphil.android.unitconverterultimate/
+* [PDF Converter](https://github.com/Swati4star/Images-to-PDF) : https://f-droid.org/packages/swati4star.createpdf/ 
+* [audiohq](https://github.com/Alcatraz323/audiohq_md2) : https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq
 * [Randomix](https://github.com/m-i-n-a-r/randomix)
 * [Intra](https://github.com/Jigsaw-Code/intra)
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice)
