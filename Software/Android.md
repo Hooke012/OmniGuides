@@ -1,12 +1,10 @@
 # Lineage OS
 
-crDroid (Holy Fuck)
-[https://lineageosroms.com/mido/](https://lineageosroms.com/mido/)
-https://en.miui.com/unlock/download_en.html
+crDroid
 
 # Browsers
-* Bromite
-* Iceraven ⭐
+* Bromite ⭐
+* Iceraven 
 * Fulguris 
 * DuckDuckGo Privacy Browser
 * Mull
@@ -41,8 +39,8 @@ https://en.miui.com/unlock/download_en.html
 
 # App Stores
 
-* https://github.com/NeoApplications/Neo-Store
-* Aurora ⭐
+* 
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore): https://f-droid.org/en/packages/com.aurora.store/ ⭐
 
 # Others
 
