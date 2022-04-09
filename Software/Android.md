@@ -17,7 +17,7 @@
 
 ## 2. Reddit:
 
-* [Stealth](https://gitlab.com/cosmosapps/stealth) : [F-Droid](https://f-droid.org/packages/com.cosmos.unreddit/ ⭐
+* [Stealth](https://gitlab.com/cosmosapps/stealth) : [F-Droid](https://f-droid.org/packages/com.cosmos.unreddit/) ⭐
 * Infinity-For-Reddit
 
 ## 3. Discord
@@ -30,14 +30,14 @@
 
 # Firewall, Ad-Blockers, DNS
 
-* [Adaway](https://github.com/AdAway/AdAway) : [F-Droid](https://f-droid.org/packages/org.adaway/ ⭐
+* [Adaway](https://github.com/AdAway/AdAway) : [F-Droid](https://f-droid.org/packages/org.adaway/) ⭐
 * NetGuard
 * Blockada 5 
 
 # App Stores
 
-* [Neo-Store](https://github.com/NeoApplications/Neo-Store) : [F-Droid](https://f-droid.org/packages/com.looker.droidify/
-* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : [F-Droid](https://f-droid.org/en/packages/com.aurora.store/
+* [Neo-Store](https://github.com/NeoApplications/Neo-Store) : [F-Droid](https://f-droid.org/packages/com.looker.droidify/)
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
 
 # Others
 
