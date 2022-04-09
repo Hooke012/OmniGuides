@@ -37,7 +37,7 @@
 # App Stores
 
 * [Neo-Store](https://github.com/NeoApplications/Neo-Store) : [F-Droid](https://f-droid.org/packages/com.looker.droidify/)
-* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : https://auroraoss.com
 
 # Others
 
