@@ -11,15 +11,14 @@
 
 ## 1. Youtube:
 
-* Newpipe<br>&emsp;↘️NewPipe x Sponsorblock ⭐<br>&emsp;&emsp;↘️Skiptube ⭐
+* Newpipe<br>&emsp;↘️NewPipe x Sponsorblock ⭐<br>&emsp;&emsp;↘️[Skiptube](https://github.com/pantsufan/SkipTube) : https://github.com/pantsufan/SkipTube/releases ⭐
 * VueTube
 * LibreTube
 
 ## 2. Reddit:
 
-* Stealth ⭐
+* [Stealth](https://gitlab.com/cosmosapps/stealth) : https://f-droid.org/packages/com.cosmos.unreddit/ ⭐
 * Infinity-For-Reddit
-* RedReader
 
 ## 3. Discord
 
