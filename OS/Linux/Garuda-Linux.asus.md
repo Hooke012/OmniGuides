@@ -17,7 +17,10 @@ ALways make sure that the zen kernel is loaded from SHUTDOWN and NOT REBOOT.
 
 - ## Linux Kernel
 
-`sudo micro /etc/pacman.conf`
+```
+sudo micro /etc/pacman.conf
+```
+
 ```
 [g14]
 SigLevel = DatabaseNever Optional TrustAll
@@ -37,7 +40,9 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 - ## Battery Threshold
 
-```sudo micro /etc/systemd/system/battery-charge-threshold.service ```
+```
+sudo micro /etc/systemd/system/battery-charge-threshold.service 
+```
 
 ```
 [Unit]
