@@ -172,6 +172,7 @@ curl -fsSL https://raw.githubusercontent.com/JulienMaille/dribbblish-dynamic-the
 ```
 # 4. Proceed to Set up ALL of the apps
 
+```
 TouchPad-Indicator
 FireDragon
 Vivaldi 
@@ -181,4 +182,4 @@ FreeTube
 ProtonVPN
 Spotify + Dribblish Dynaminc
 XDM
-
+```
