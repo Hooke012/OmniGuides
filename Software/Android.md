@@ -42,18 +42,15 @@
 
 # Others
 
-* [Simple Mobile Tools* microMathematics](https://github.com/SimpleMobileTools) : Play Store...
-* [FairEmail](https://github.com/M66B/FairEmail): https://f-droid.org/en/packages/eu.faircode.email/
-* NCALC+
-* OpenContacts
-* AsciiCam
-* FlorisBoard
-* AmazeFileManager
-* Kiss Launcher
-* muzei
-* forecastie
-* ForkGram
-* Navi
+* [microMathematics](https://github.com/mkulesh/microMathematics) : https://f-droid.org/packages/com.mkulesh.micromath.plus
+* [FairEmail](https://github.com/M66B/FairEmail) : https://f-droid.org/en/packages/eu.faircode.email/
+* [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) : https://f-droid.org/app/opencontacts.open.com.opencontacts
+* [VectorCamera](https://github.com/dozingcat/VectorCamera) : https://f-droid.org/packages/com.dozingcatsoftware.vectorcamera/
+* [FlorisBoard](https://github.com/florisboard/florisboard) : https://f-droid.org/packages/dev.patrickgold.florisboard
+* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) : https://f-droid.org/packages/com.amaze.filemanager/
+* [forecastie](https://github.com/martykan/forecastie) : https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie
+* [ForkGram](https://github.com/Forkgram/TelegramAndroid) : https://f-droid.org/app/org.forkgram.messenger
+* [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) : https://f-droid.org/en/packages/com.tachibana.downloader/
 * Bitwarden: Play Store...
 * [Easer](https://github.com/renyuneyun/Easer) : https://f-droid.org/packages/ryey.easer/
 * [Watomatic](https://github.com/adeekshith/watomatic) : https://fdroid.org/en/packages/com.parishod.watomatic/
