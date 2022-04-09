@@ -41,6 +41,7 @@
 
 # Others
 
+* Bitwarden: Fdroid Repo
 * [microMathematics](https://github.com/mkulesh/microMathematics) : https://f-droid.org/packages/com.mkulesh.micromath.plus
 * [FairEmail](https://github.com/M66B/FairEmail) : https://f-droid.org/en/packages/eu.faircode.email/
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) : https://f-droid.org/app/opencontacts.open.com.opencontacts
@@ -50,13 +51,11 @@
 * [forecastie](https://github.com/martykan/forecastie) : https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie
 * [ForkGram](https://github.com/Forkgram/TelegramAndroid) : https://f-droid.org/app/org.forkgram.messenger
 * [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) : https://f-droid.org/en/packages/com.tachibana.downloader/
-* Bitwarden: Fdroid Repo
 * [Easer](https://github.com/renyuneyun/Easer) : https://f-droid.org/packages/ryey.easer/
 * [Watomatic](https://github.com/adeekshith/watomatic) : https://fdroid.org/en/packages/com.parishod.watomatic/
 * [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) : https://fdroid.org/en/packages/com.physphil.android.unitconverterultimate/
 * [PDF Converter](https://github.com/Swati4star/Images-to-PDF) : https://f-droid.org/packages/swati4star.createpdf/ 
 * [audiohq](https://github.com/Alcatraz323/audiohq_md2) : https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq
-* [Randomix](https://github.com/m-i-n-a-r/randomix)
-* [Intra](https://github.com/Jigsaw-Code/intra)
-* [FindMyDevice](https://gitlab.com/Nulide/findmydevice)
-* [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
+* [Randomix](https://github.com/m-i-n-a-r/randomix) : https://f-droid.org/packages/com.minar.randomix/
+* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) : https://f-droid.org/packages/de.nulide.findmydevice/
+* [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) : https://f-droid.org/app/com.jarsilio.android.scrambledeggsif
