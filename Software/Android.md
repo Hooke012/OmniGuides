@@ -9,22 +9,22 @@
 
 # Frontends / Clients
 
-## 1. Youtube:
+- ## 1. Youtube:
 
 * Newpipe<br>&emsp;↘️NewPipe x Sponsorblock ⭐<br>&emsp;&emsp;↘️[Skiptube](https://github.com/pantsufan/SkipTube) : https://github.com/pantsufan/SkipTube/releases ⭐
 * VueTube
 * LibreTube
 
-## 2. Reddit:
+- ## 2. Reddit:
 
 * [Stealth](https://gitlab.com/cosmosapps/stealth) : [F-Droid](https://f-droid.org/packages/com.cosmos.unreddit/) ⭐
 * Infinity-For-Reddit
 
-## 3. Discord
+- ## 3. Discord
 
 * [AliuCord](https://github.com/Aliucord/Aliucord) : [Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk) ⭐
 
-## 4. Spotify
+- ## 4. Spotify
 
 * [Spotube](https://github.com/KRTirtho/spotube) : [Releases](https://github.com/krtirtho/spotube/releases) --> Android-allarch
 
