@@ -53,10 +53,10 @@
 | [forecastie](https://github.com/martykan/forecastie) | [F-Droid](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie) | [Play Store](https://play.google.com/store/apps/details?id=com.casticalabs.forecastie) |
 | [ForkGram](https://github.com/Forkgram/TelegramAndroid) | [F-Droid](https://f-droid.org/app/org.forkgram.messenger) | |
 | [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) | [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/) | [Play Store](https://play.google.com/store/apps/details?id=com.tachibana.downloader) |
-| [Easer](https://github.com/renyuneyun/Easer) | [F-Droid](https://f-droid.org/packages/ryey.easer/) | [Play Store]()  |
-| [Watomatic](https://github.com/adeekshith/watomatic) | [F-Droid](https://f-droid.org/en/packages/com.parishod.watomatic/) | [Play Store]()  |
-| [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) | [F-Droid](https://f-droid.org/en/packages/com.physphil.android.unitconverterultimate/) | [Play Store]()  |
-| [PDF Converter](https://github.com/Swati4star/Images-to-PDF) | [F-Droid](https://f-droid.org/packages/swati4star.createpdf/) | [Play Store]()  |
+| [Easer](https://github.com/renyuneyun/Easer) | [F-Droid](https://f-droid.org/packages/ryey.easer/) | |
+| [Watomatic](https://github.com/adeekshith/watomatic) | [F-Droid](https://f-droid.org/en/packages/com.parishod.watomatic/) | [Play Store](https://play.google.com/store/apps/details?id=com.parishod.watomatic)  |
+| [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) | [F-Droid](https://f-droid.org/en/packages/com.physphil.android.unitconverterultimate/) | [Play Store](https://play.google.com/store/apps/details?id=com.physphil.android.unitconverterultimate)  |
+| [PDF Converter](https://github.com/Swati4star/Images-to-PDF) | [F-Droid](https://f-droid.org/packages/swati4star.createpdf/) | [Play Store](https://play.google.com/store/apps/details?id=swati4star.createpdf)  |
 | [audiohq](https://github.com/Alcatraz323/audiohq_md2) | [IzzyOnDroid](https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq) | [Play Store]()  |
 | [Randomix](https://github.com/m-i-n-a-r/randomix) | [F-Droid](https://f-droid.org/packages/com.minar.randomix/) | [Play Store]()  |
 | [FindMyDevice](https://gitlab.com/Nulide/findmydevice) | [F-Droid](https://f-droid.org/packages/de.nulide.findmydevice/) | [Play Store]() |
