@@ -1,7 +1,7 @@
 # crDroid
 
 # Browsers
-* Bromite ⭐
+* [Bromite](https://github.com/bromite/bromite) : [Releases](https://github.com/bromite/bromite/releases) Fdroid(Add Repo)  ⭐
 * Iceraven 
 * Fulguris 
 * DuckDuckGo Privacy Browser
@@ -50,11 +50,9 @@
 * [forecastie](https://github.com/martykan/forecastie) : https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie
 * [ForkGram](https://github.com/Forkgram/TelegramAndroid) : https://f-droid.org/app/org.forkgram.messenger
 * [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) : https://f-droid.org/en/packages/com.tachibana.downloader/
-* Bitwarden: Play Store...
+* Bitwarden: Fdroid Repo
 * [Easer](https://github.com/renyuneyun/Easer) : https://f-droid.org/packages/ryey.easer/
 * [Watomatic](https://github.com/adeekshith/watomatic) : https://fdroid.org/en/packages/com.parishod.watomatic/
-* [Kde Connect](https://github.com/KDE/kdeconnect-android) : Play Store...
-* [Loop Habit Tracker](https://github.com/iSoron/uhabits) : 
 * [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) : https://fdroid.org/en/packages/com.physphil.android.unitconverterultimate/
 * [PDF Converter](https://github.com/Swati4star/Images-to-PDF) : https://f-droid.org/packages/swati4star.createpdf/ 
 * [audiohq](https://github.com/Alcatraz323/audiohq_md2) : https://android.izzysoft.de/repo/apk/io.alcatraz.audiohq
