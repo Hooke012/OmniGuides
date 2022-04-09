@@ -22,7 +22,7 @@
 
 ## 3. Discord
 
-* [AliuCord](https://github.com/Aliucord/Aliucord) : https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk ⭐
+* [AliuCord](https://github.com/Aliucord/Aliucord) : [Releases}(https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk) ⭐
 
 ## 4. Spotify
 
