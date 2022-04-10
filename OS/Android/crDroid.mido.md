@@ -4,10 +4,9 @@
 
 https://crdroid.net/downloads
 
+- ## 2. TWRP
 
-- ## 2. OrangeFox
-
-https://orangefox.download/device/mido
+https://dl.twrp.me/mido/
 
 - ## 3. ADB
 
