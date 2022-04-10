@@ -21,7 +21,13 @@ https://github.com/topjohnwu/Magisk/releases
 
 https://github.com/Szaki/XiaomiADBFastbootTools/releases
 
-# Devleoper Mode
+# Settings
+
+## Navigation
+
+Display Navigation bar at the bottom of screen
+
+## Devleoper Mode
 
 About Phone --> Build Number
 
