@@ -22,11 +22,15 @@ https://github.com/Szaki/XiaomiADBFastbootTools/releases
 
 # Settings
 
-## Navigation
 
-Display Navigation bar at the bottom of screen
-
-## Devleoper Mode
+- ## Devleoper Mode
 
 About Phone --> Build Number
 
+- ## Navigation
+
+Display Navigation bar at the bottom of screen
+
+- ## Default Apps
+
+Default Links??
