@@ -45,7 +45,7 @@
 
 | App | F-Droid | Play Store |
 |-|-|-|
-| Bitwarden | Fdroid Repo | [Play Store](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) |
+| Collabora Office | | [Play Store](https://play.google.com/store/apps/details?id=com.collabora.libreoffice) |
 | [microMathematics](https://github.com/mkulesh/microMathematics) | [F-Droid](https://f-droid.org/packages/com.mkulesh.micromath.plus) | [Play Store](https://play.google.com/store/apps/details?id=com.mkulesh.micromath.plus) |
 | [FairEmail](https://github.com/M66B/FairEmail) | [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/) | [Play Store](https://play.google.com/store/apps/details?id=eu.faircode.email) |
 | [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) | [F-Droid](https://f-droid.org/app/opencontacts.open.com.opencontacts) | |
