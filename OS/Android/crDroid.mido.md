@@ -1,10 +1,19 @@
 # List of Custom Roms
-| Name | Android Version |
-|-|:-:|
-| crDroid | 11 |
-| Arcana | 12L |
-| OxygenOs | 10 |
-| HavocOS | 11 |
+| Name | ROM Version|Android Version |
+|-|:-:|:-:|
+| crDroid | | 11 |
+| Arcana | 6.0 | 12L |
+| OxygenOs | | 10 |
+| HavocOS | 4.15 | 11 |
+| Pixel Experience | | 12L |
+| LineageOS | 19.1 | 12L | 
+| SuperiorOS | | 12 |
+| AOSP Extended | 9.1 | 12L |
+| Nusantara Project eLTS | | 10 |
+| XDroid OS | 12.1.0 | 12L |
+| Pixel OS | 12.0 | 12 |
+
+
 # Download
 
 - ## 1. Wait Until Official Midoo Android 12 Releases from Crdroid
