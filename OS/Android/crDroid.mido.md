@@ -23,7 +23,7 @@
 
 # Download
 
-- ## 1. Wait Until Official Midoo Android 12 Releases from Crdroid
+- ## 1. Wait Until Official Mido Android 12 Releases from Crdroid
 
 https://crdroid.net/downloads
 
