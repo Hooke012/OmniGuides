@@ -1,3 +1,10 @@
+# List of Custom Roms
+| Name | Android Version |
+|-|-|
+| crDroid | 11 |
+| Arcana | 12L |
+| OxygenOs | 10 |
+| HavocOS | 11 |
 # Download
 
 - ## 1. Wait Until Official Midoo Android 12 Releases from Crdroid
