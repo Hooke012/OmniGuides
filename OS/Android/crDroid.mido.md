@@ -3,7 +3,7 @@
 |-|:-:|:-:|
 | crDroid | | 11 |
 | Arcana | 6.0 | 12L |
-| OxygenOs | | 10 |
+| OxygenOs | 10 | 10 |
 | HavocOS | 4.15 | 11 |
 | Pixel Experience | | 12L |
 | LineageOS | 19.1 | 12L | 
@@ -12,6 +12,13 @@
 | Nusantara Project eLTS | | 10 |
 | XDroid OS | 12.1.0 | 12L |
 | Pixel OS | 12.0 | 12 |
+| Komodo OS | 4.1 | 12 |
+| Project Elixir | 1.5 |  |
+| Awaken OS |  | 12 |
+| Cherish OS| 3.4.5 | 12 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 
 # Download
