@@ -1,6 +1,6 @@
 # List of Custom Roms
 | Name | Android Version |
-|-|-|
+|-|:-:|
 | crDroid | 11 |
 | Arcana | 12L |
 | OxygenOs | 10 |
