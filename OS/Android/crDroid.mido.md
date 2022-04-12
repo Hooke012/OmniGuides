@@ -4,7 +4,7 @@
 | ⭐crDroid⭐ | | 11 |
 | ⭐Project Elixir | 1.6 | 12L |
 | ⭐Arcana | 6.0 | 12L |
-| ⭐Cherish OS| 3.4.5 | 12 |
+| ⭐Cherish OS⭐| 3.4.5 | 12 |
 | OxygenOs | 10 | 10 |
 | HavocOS | 4.15 | 11 |
 | Pixel Experience | | 12L |
