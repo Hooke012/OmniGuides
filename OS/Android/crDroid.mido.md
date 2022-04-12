@@ -1,8 +1,10 @@
 # List of Custom Roms
 | Name | ROM Version|Android Version |
 |-|:-:|:-:|
-| crDroid | | 11 |
-| Arcana | 6.0 | 12L |
+| ⭐crDroid⭐ | | 11 |
+| ⭐Project Elixir | 1.6 | 12L |
+| ⭐Arcana | 6.0 | 12L |
+| ⭐Cherish OS| 3.4.5 | 12 |
 | OxygenOs | 10 | 10 |
 | HavocOS | 4.15 | 11 |
 | Pixel Experience | | 12L |
@@ -13,13 +15,7 @@
 | XDroid OS | 12.1.0 | 12L |
 | Pixel OS | 12.0 | 12 |
 | Komodo OS | 4.1 | 12 |
-| Project Elixir | 1.5 |  |
 | Awaken OS |  | 12 |
-| Cherish OS| 3.4.5 | 12 |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
 
 # Download
 
