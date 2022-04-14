@@ -2,18 +2,17 @@
 | Name | ROM Version|Android Version |
 |-|:-:|:-:|
 | ⭐[AOSP Extended](https://www.pling.com/p/1690503/)⭐ | 9.1 (Unofficial) | 12L |
-| ⭐crDroid⭐ | | 11 |
+| ⭐[crDroid](https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7)⭐ | | 11 |
 | ⭐Project Elixir | 1.6 | 12L |
+| [SuperiorOS]() | | 12 |
 | ⭐Arcana | 6.0 (Official) | 12L |
-| ⭐Cherish OS⭐| 3.4.5 | 12 |
+| ⭐[Cherish OS]()⭐| 3.4.5 | 12 |
 | ⭐Pixys OS | 5.1.1 (Unofficial) | 12L |
 | DotOS | 6.0.0-beta | 
 | OxygenOs | 10 | 10 |
 | HavocOS | 4.15 | 11 |
 | Pixel Experience | | 12L |
 | LineageOS | 19.1 | 12L | 
-| SuperiorOS | | 12 |
-
 | Nusantara Project eLTS | | 10 |
 | XDroid OS | 12.1.0 | 12L |
 | Pixel OS | 12.0 | 12 |
