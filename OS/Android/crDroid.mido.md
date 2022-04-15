@@ -44,7 +44,6 @@ https://github.com/Szaki/XiaomiADBFastbootTools/releases
 
 # Settings
 
-
 - ## Devleoper Mode
 
 About Phone --> Build Number
