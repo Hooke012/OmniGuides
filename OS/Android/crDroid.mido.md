@@ -4,7 +4,6 @@
 | ⭐[Cherish OS](https://www.pling.com/p/1451939/)⭐| 3.4.5 (Official) | 12 |
 | ⭐[crDroid](https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7)⭐ | 8.2 (Unofficial) | 12 |
 | [SuperiorOS]() | | 12 |
-| ⭐Pixys OS | 5.1.1 (Unofficial) | 12L |
 | OxygenOs | 10 | 10 |
 | HavocOS | 4.15 | 11 |
 | Pixel Experience | | 12L |
@@ -22,6 +21,7 @@
 |||||
 |-|-|-|-|
 | ⭐[AOSP Extended](https://www.pling.com/p/1690503/)⭐ | 9.1 (Unofficial) | 12L | DuckDuckGo |
+| ⭐Pixys OS | 5.1.1 (Unofficial) | 12L | GApps |
 
 # Download
 
