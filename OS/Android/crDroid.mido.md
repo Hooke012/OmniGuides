@@ -6,7 +6,6 @@
 | ⭐[crDroid](https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7)⭐ | | 11 |
 | [SuperiorOS]() | | 12 |
 | ⭐Pixys OS | 5.1.1 (Unofficial) | 12L |
-| DotOS | 6.0.0-beta | 
 | OxygenOs | 10 | 10 |
 | HavocOS | 4.15 | 11 |
 | Pixel Experience | | 12L |
