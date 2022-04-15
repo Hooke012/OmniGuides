@@ -1,9 +1,8 @@
 # List of Custom Roms
 | Name | ROM Version|Android Version |
 |-|:-:|:-:|
-| ⭐[Cherish OS](https://www.pling.com/p/1451939/)⭐| 3.4.5 | 12 |
-| ⭐[AOSP Extended](https://www.pling.com/p/1690503/)⭐ | 9.1 (Unofficial) | 12L |
-| ⭐[crDroid](https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7)⭐ | | 11 |
+| ⭐[Cherish OS](https://www.pling.com/p/1451939/)⭐| 3.4.5 (Official) | 12 |
+| ⭐[crDroid](https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7)⭐ | 8.2 (Unofficial) | 12 |
 | [SuperiorOS]() | | 12 |
 | ⭐Pixys OS | 5.1.1 (Unofficial) | 12L |
 | OxygenOs | 10 | 10 |
@@ -19,6 +18,10 @@
 ||||
 | ⭐Project Elixir | 1.6 | 12L |
 | ⭐Arcana | 6.0 (Official) | 12L |
+
+|||||
+|-|-|-|-|
+| ⭐[AOSP Extended](https://www.pling.com/p/1690503/)⭐ | 9.1 (Unofficial) | 12L | DuckDuckGo |
 
 # Download
 
