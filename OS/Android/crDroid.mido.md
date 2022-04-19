@@ -4,7 +4,7 @@
 | Name | ROM Version |Android Version | Download Link(mido) |
 |-|:-:|:-:|-|
 | [AICP](https://www.aicp-rom.com) | | | https://www.pling.com/p/1620120/ |
-| ⭐[crDroid](https://crdroid.net/)⭐ | 8.3 (Unofficial) | 12L | https://drive.google.com/file/d/1fLvUCUH9adu0LiGYc-KKgHUnFtwo9a5v/view |
+| ⭐[crDroid](https://crdroid.net/)⭐ | 8.2 (Unofficial) | 12 | https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7 |
 
 - ## 2. TWRP
 
