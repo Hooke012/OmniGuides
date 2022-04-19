@@ -1,24 +1,9 @@
 # List of Custom Roms
 | Name | ROM Version |Android Version | Download Link(mido) |
 |-|:-:|:-:|-|
-| ⭐[Cherish OS](https://downloads.cherishos.com/)⭐| 3.4.5 (Official) | 12 | (https://www.pling.com/p/1451939/) |
-| ⭐[crDroid](https://crdroid.net/)⭐ | 8.2 (Unofficial) | 12 | https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7|
-| [Spark Os](https://www.spark-os.live/) | 12.2 (Official) | 12L | https://downloads.spark-os.live/?dir=mido |
-| [SuperiorOS]() | | 12 |
-| LineageOS | 19.1 | 12L | 
-| Pixel OS | 12.0 | 12 |
-| Komodo OS⭐x | 4.1 | 12 |
-| Awaken OS |  | 12 |
-||||
-| XDroid OS | 12.1.0 | 12L |
-||||
-| ⭐Project Elixir | 1.6 | 12L |
-| ⭐Arcana | 6.0 (Official) | 12L |
-
-|||||
-|-|-|-|-|
-| ~~⭐AOSP Extended⭐~~ | 9.1 (Unofficial) | 12L | DuckDuckGo|
-| ~~⭐Pixys OS | 5.1.1 (Unofficial)~~ | 12L | |GApps|
+| [AICP](https://www.aicp-rom.com) | | | https://www.pling.com/p/1620120/ |
+| ⭐[crDroid](https://crdroid.net/)⭐ | 8.3 (Unofficial) | 12 | https://drive.google.com/file/d/1fLvUCUH9adu0LiGYc-KKgHUnFtwo9a5v/view |
+| [Spark Os](https://www.spark-os.live/)⭐ | 12.2 (Official) | 12L | https://downloads.spark-os.live/?dir=mido |
 
 # Download
 
