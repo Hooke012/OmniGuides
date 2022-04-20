@@ -1,8 +1,8 @@
 - # 1. List of Custom Roms
 | Name | ROM Version |Android Version | Download Link(mido) |
 |-|:-:|:-:|-|
-| ⭐[Lineage OS](https://www.aicp-rom.com)⭐ | 19.1 (Unofficial) | 12L | https://github.com/zeelog/OTA/releases |
-| ⭐⭐[crDroid](https://crdroid.net/)⭐ | 8.2 (Unofficial) | 12 | https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7 |
+| [Lineage OS](https://www.aicp-rom.com)⭐ | 19.1 (Unofficial) | 12L | https://github.com/zeelog/OTA/releases |
+| ⭐[crDroid](https://crdroid.net/)⭐ | 8.2 (Unofficial) | 12 | https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7 |
 
 - # 2. TWRP
 
