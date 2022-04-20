@@ -62,4 +62,3 @@
 | [FindMyDevice](https://gitlab.com/Nulide/findmydevice) | [F-Droid](https://f-droid.org/packages/de.nulide.findmydevice/) | |
 | [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) | [F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif) | [Play Store](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) |
 | [Koler]() | [F-Droid]() | |
-| [OAndBackupX](https://github.com/NeoApplications/Neo-Backup) | [F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/) |  |
