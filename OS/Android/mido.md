@@ -1,7 +1,7 @@
 - # 1. List of Custom Roms
 | Name | ROM Version |Android Version | Download Link(mido) |
 |-|:-:|:-:|-|
-| Havoc |
+| Havoc | 4.16 (Official) | 11 | https://havoc-os.com/device#mido |
 | ~~Fork LOS~~ | DuckDuckGo |
 | Crdroid |
 | ~~AICP~~ |
