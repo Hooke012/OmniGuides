@@ -1,7 +1,6 @@
 - # 1. List of Custom Roms
 | Name | ROM Version |Android Version | Download Link(mido) |
 |-|:-:|:-:|-|
-| [Spark OS](https://www.spark-os.live)⭐ | 12.2 (Official) | 12L | https://sourceforge.net/projects/sparkosofficial/files/mido/ |
 | [Lineage OS](https://github.com/zeelog/OTA/)⭐ | 19.1 (Unofficial) | 12L | https://github.com/zeelog/OTA/releases |
 | ⭐[crDroid](https://crdroid.net/)⭐ | 8.2 (Unofficial) | 12 | https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7 |
 |||||
