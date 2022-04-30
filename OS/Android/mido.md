@@ -4,7 +4,7 @@
 | [Lineage OS](https://github.com/zeelog/OTA/)⭐ | 19.1 (Unofficial) | 12L | https://github.com/zeelog/OTA/releases |
 | ⭐[crDroid](https://crdroid.net/)⭐ | 8.2 (Unofficial) | 12 | https://drive.google.com/drive/folders/1-324RaJHq17o3WPIm357JDFNrUoY28q7 |
 |||||
-| ~~AOSP Extended~~⭐ | DuckDuckGo|||
+| ~~AOSP Extended~~ | DuckDuckGo|||
 
 
 - # 2. TWRP
