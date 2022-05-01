@@ -6,7 +6,7 @@ choco upgrade chocolatey --force
 refreshenv
 choco feature enable -n allowGlobalConfirmation
 choco install 7zip --pre 
-choco install librewolf files playnite imageglass aimp vlc xdm office-tool obs-studio qbittorrent-enhanced
+choco install librewolf files playnite imageglass aimp vlc xdm office-tool obs-studio qbittorrent-enhanced wpd
 
 
 Webcord
