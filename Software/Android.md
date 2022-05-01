@@ -45,7 +45,6 @@
 
 | App | F-Droid | Play Store |
 |-|-|-|
-| BlackHole | [F-Droid](https://f-droid.org/packages/com.shadow.blackhole/) |
 | Collabora Office | Repository | [Play Store](https://play.google.com/store/apps/details?id=com.collabora.libreoffice) |
 | [microMathematics](https://github.com/mkulesh/microMathematics) | [F-Droid](https://f-droid.org/packages/com.mkulesh.micromath.plus) | [Play Store](https://play.google.com/store/apps/details?id=com.mkulesh.micromath.plus) |
 | [FairEmail](https://github.com/M66B/FairEmail) | [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/) | [Play Store](https://play.google.com/store/apps/details?id=eu.faircode.email) |
