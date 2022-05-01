@@ -142,7 +142,7 @@ sudo micro /etc/dnsmasq.d/99-edns.conf
 edns-packet-max=1232
 ```
 
-# 3. paru
+# 3. paru (git the better)
 
 ```
 paru touchpad-indicator-git
@@ -154,6 +154,9 @@ paru protonvpn-gui
 paru whatsapp-for-linux
 paru qbittorrent-enhanced-qt5
 paru rustdesk
+paru tesseract-gui
+paru superproductivity
+flameshot-git
 ```
 
 # 4. Proceed to Set up ALL of the apps
