@@ -22,6 +22,9 @@ https://github.com/Szaki/XiaomiADBFastbootTools/releases
 - # 6. Universal Android Debloater
 https://github.com/0x192/universal-android-debloater/releases
 
+- # 7. Neo-Droid
+https://github.com/NeoApplications/Neo-Store/releases
+
 # Settings
 
 - ## Devleoper Mode
