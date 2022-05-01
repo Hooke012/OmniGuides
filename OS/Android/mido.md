@@ -45,8 +45,7 @@ About Phone --> Build Number
 Configuration --> Hardware
 
 - ### Default Apps
-
-Default Links??
+# 
 
 Neo-Droid Setup: Repositories, Silent Install<br>
 
