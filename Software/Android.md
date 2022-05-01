@@ -1,26 +1,17 @@
-# crDroid
+# [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : https://auroraoss.com
 
-# [OAndBackupX](https://github.com/NeoApplications/Neo-Backup) | [F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)
-
-# Browsers
-* [Bromite](https://github.com/bromite/bromite) : adb install [Releases](https://github.com/bromite/bromite/releases) ⭐
-* Iceraven 
-* Fulguris 
-* DuckDuckGo Privacy Browser
-* Mull
+# Browser
+* Bromite
 
 # Frontends / Clients
 
 - ## 1. Youtube:
 
 * Newpipe<br>&emsp;↘️NewPipe x Sponsorblock ⭐<br>&emsp;&emsp;↘️[Skiptube](https://github.com/pantsufan/SkipTube) : https://github.com/pantsufan/SkipTube/releases ⭐
-* VueTube
-* LibreTube
 
 - ## 2. Reddit:
 
 * [Stealth](https://gitlab.com/cosmosapps/stealth) : [F-Droid](https://f-droid.org/packages/com.cosmos.unreddit/) ⭐
-* Infinity-For-Reddit
 
 - ## 3. Discord
 
@@ -36,11 +27,6 @@
 * NetGuard
 * Blockada 5 
 
-# App Stores
-
-* [Neo-Store](https://github.com/NeoApplications/Neo-Store) : [F-Droid](https://f-droid.org/packages/com.looker.droidify/)
-* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) : https://auroraoss.com
-
 # Others
 
 | App | F-Droid | Play Store |
@@ -53,6 +39,7 @@
 | [VectorCamera](https://github.com/dozingcat/VectorCamera) | [F-Droid](https://f-droid.org/packages/com.dozingcatsoftware.vectorcamera/) | [Play Store](https://play.google.com/store/apps/details?id=com.dozingcatsoftware.vectorcamera) |
 | [FlorisBoard](https://github.com/florisboard/florisboard) | [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard) | |
 | [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager) | [Play Store](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
+| [OAndBackupX](https://github.com/NeoApplications/Neo-Backup) | [F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/) |
 | [forecastie](https://github.com/martykan/forecastie) | [F-Droid](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie) | [Play Store](https://play.google.com/store/apps/details?id=com.casticalabs.forecastie) |
 | [ForkGram](https://github.com/Forkgram/TelegramAndroid) | [F-Droid](https://f-droid.org/packages/org.forkgram.messenger/) | |
 | [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) | [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/) | [Play Store](https://play.google.com/store/apps/details?id=com.tachibana.downloader) |
