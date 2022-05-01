@@ -64,4 +64,4 @@
 | [Koler](https://github.com/Chooloo/koler) | [F-Droid](https://f-droid.org/packages/com.chooloo.www.koler/) | |
 | [QKSMS](https://github.com/moezbhatti/qksms) | [F-Droid](https://f-droid.org/packages/com.chooloo.www.koler/) ||
 | [Etar]() | [F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar/) ||
-| Osmand | | PlayStore |
+| Osmand | [F-Droid](https://f-droid.org/packages/net.osmand.plus/) | PlayStore |
