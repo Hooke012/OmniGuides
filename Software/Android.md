@@ -64,3 +64,4 @@
 | [Koler]() | [F-Droid]() | |
 | [Silence]() | [F-Droid]() ||
 | [Etar]() | [F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar/) ||
+| Osmand | | PlayStore |
