@@ -33,7 +33,6 @@ DEBLOAT 21<br>
 Reboot<br>
 Wifi<br>
 Magisk Install<br>
-Neo-Droid Setup: Repositories, Silent Install<br>
 
 ## Settings
 
@@ -48,5 +47,7 @@ Configuration --> Hardware
 - ### Default Apps
 
 Default Links??
+
+Neo-Droid Setup: Repositories, Silent Install<br>
 
 # [PROCEED](https://github.com/Hooke012/OmniGuides/blob/main/Software/Android.md)
