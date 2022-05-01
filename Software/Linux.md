@@ -153,6 +153,7 @@ paru pdfarranger
 paru protonvpn-gui
 paru whatsapp-for-linux
 paru qbittorrent-enhanced-qt5
+paru rustdesk
 ```
 
 # 4. Proceed to Set up ALL of the apps
