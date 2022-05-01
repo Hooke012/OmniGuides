@@ -47,7 +47,7 @@
 |-|-|-|
 | Collabora Office | Repository | [Play Store](https://play.google.com/store/apps/details?id=com.collabora.libreoffice) |
 | [microMathematics](https://github.com/mkulesh/microMathematics) | [F-Droid](https://f-droid.org/packages/com.mkulesh.micromath.plus) | [Play Store](https://play.google.com/store/apps/details?id=com.mkulesh.micromath.plus) |
-| [FairEmail](https://github.com/M66B/FairEmail) | [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/) | [Play Store](https://play.google.com/store/apps/details?id=eu.faircode.email) |
+| [K-9 Email](https://github.com/k9mail/k-9) | [F-Droid](https://f-droid.org/packages/com.fsck.k9/) | |
 | [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) | [F-Droid](https://f-droid.org/packages/opencontacts.open.com.opencontacts/) | |
 | [VectorCamera](https://github.com/dozingcat/VectorCamera) | [F-Droid](https://f-droid.org/packages/com.dozingcatsoftware.vectorcamera/) | [Play Store](https://play.google.com/store/apps/details?id=com.dozingcatsoftware.vectorcamera) |
 | [FlorisBoard](https://github.com/florisboard/florisboard) | [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard) | |
