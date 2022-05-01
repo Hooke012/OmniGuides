@@ -25,16 +25,27 @@ https://github.com/0x192/universal-android-debloater/releases
 - # 7. Neo-Droid
 https://github.com/NeoApplications/Neo-Store/releases
 
-# Settings
+# First Steps
 
-- ## Devleoper Mode
+Turn Off Mobile Data<br>
+Install NeoDroid<br>
+DEBLOAT 21<br>
+Reboot<br>
+Wifi<br>
+Magisk Install<br>
+
+## Settings
+
+- ### Devleoper Mode
 
 About Phone --> Build Number
 
-- ## Navigation
+- ### Navigation
 
 Configuration --> Hardware
 
-- ## Default Apps
+- ### Default Apps
 
 Default Links??
+
+# [PROCEED](https://github.com/Hooke012/OmniGuides/blob/main/Software/Android.md)
