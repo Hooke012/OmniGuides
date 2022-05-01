@@ -1,4 +1,4 @@
-# Email Encryption (Disroot on Thunderbird with OpenPGP)
+# [Email Encryption (Disroot on Thunderbird with OpenPGP)](https://support.mozilla.org/en-US/kb/openpgp-thunderbird-howto-and-faq)
 
 To use OpenPGP functionality in Thunderbird, you need to set a so-called personal key pair for your email address. You can do that in the End-to-End Encryption subsection of your account settings. If you have already used OpenPGP with other software, you need to import a backup copy of your existing key. Otherwise, you can create a new key.
 
