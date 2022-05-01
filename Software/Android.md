@@ -45,6 +45,7 @@
 
 | App | F-Droid | Play Store |
 |-|-|-|
+| RustDesk | | Play Store |
 | Collabora Office | Repository | [Play Store](https://play.google.com/store/apps/details?id=com.collabora.libreoffice) |
 | [microMathematics](https://github.com/mkulesh/microMathematics) | [F-Droid](https://f-droid.org/packages/com.mkulesh.micromath.plus) | [Play Store](https://play.google.com/store/apps/details?id=com.mkulesh.micromath.plus) |
 | [K-9 Email](https://github.com/k9mail/k-9) | [F-Droid](https://f-droid.org/packages/com.fsck.k9/) | |
