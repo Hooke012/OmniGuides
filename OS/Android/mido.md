@@ -2,14 +2,13 @@
 | Name | ROM Version |Android Version | Download Link(mido) |
 |-|:-:|:-:|-|
 | Havoc | 4.16 (Official) | 11 | https://havoc-os.com/device#mido |
-| ~~Fork LOS~~ | DuckDuckGo |
-| Crdroid |
-| ~~AICP~~ |
-| Corvus |
+| Crdroid | 8.4 (Unofficial) | 12L | |
+| Corvus | | 10 |
 
 
-- # 2. TWRP
+- # 2. Recovery
 https://dl.twrp.me/mido/
+https://orangefox.download/device/mido
 
 - # 3. ADB
 https://developer.android.com/studio/releases/platform-tools#downloads
@@ -31,7 +30,7 @@ About Phone --> Build Number
 
 - ## Navigation
 
-Display Navigation bar at the bottom of screen
+Configuration --> Hardware
 
 - ## Default Apps
 
