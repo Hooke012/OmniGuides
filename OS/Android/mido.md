@@ -33,6 +33,7 @@ DEBLOAT 21<br>
 Reboot<br>
 Wifi<br>
 Magisk Install<br>
+Neo-Droid Setup: Repositories, Silent Install<br>
 
 ## Settings
 
