@@ -156,7 +156,8 @@ paru qbittorrent-enhanced-qt5
 paru rustdesk
 paru tesseract-gui
 paru superproductivity
-flameshot-git
+paru flameshot-git
+paru xclicker
 ```
 
 # 4. Proceed to Set up ALL of the apps
