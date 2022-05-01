@@ -151,25 +151,10 @@ paru webcord
 paru freetube
 paru pdfarranger
 paru protonvpn-gui
-paru spotify
-paru spotify-tray-git
 paru whatsapp-for-linux
 paru qbittorrent-enhanced-qt5
-paru spicetify-cli-git
-paru spicetify-themes-git
 ```
 
-```
-sudo chmod a+wr /opt/spotify
-sudo chmod a+wr /opt/spotify/Apps -R
-spicetify
-spicetify backup apply enable-devtool
-spicetify update
-```
-
-```
-curl -fsSL https://raw.githubusercontent.com/JulienMaille/dribbblish-dynamic-theme/master/install.sh | sh
-```
 # 4. Proceed to Set up ALL of the apps
 
 ```
@@ -180,6 +165,5 @@ Kotatogram
 Webcord
 FreeTube
 ProtonVPN
-Spotify + Dribblish Dynaminc
 XDM
 ```
