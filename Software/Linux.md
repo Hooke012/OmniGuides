@@ -20,7 +20,7 @@ paru pi-hole-server
 systemctl start pihole-FTL.service
 ```
 
-# holy shit... press q
+# holy frick... press q
 
 ```
 paru php-sqlite
