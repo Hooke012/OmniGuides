@@ -4,7 +4,6 @@ System Update: Yes
 ### Post-Install
 AppImage Launcher<br>
 Octopi<br>
-Discover<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
 ThunderBird<br>
@@ -12,6 +11,7 @@ Xtreme Download Manager<br>
 VLC<br>
 OBS Studio<br>
 IntelliJ<br>
+VirtualBox<br>
 
 # 2. Pi-Hole
 
@@ -19,12 +19,8 @@ IntelliJ<br>
 paru pi-hole-server
 systemctl start pihole-FTL.service
 ```
-~~↘️(If fails)<br>~~
-~~`sudo micro /etc/systemd/resolved.conf`~~<br>
-~~[Resolve]<br>~~
-~~DNSStubListener=no<br>~~
-~~`systemctl restart systemd-resolved.service`<br>~~
-~~`systemctl restart pihole-FTL.service`<br>~~<br>
+
+# holy shit... press q
 
 ```
 paru php-sqlite
