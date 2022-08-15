@@ -7,7 +7,7 @@ Coffee
 <Office>
 <Calendar>
 <Keyboard>
-<Telegram Client>
+Forkgram
 Geometric Weather
 Infinity
 K-9 Mail
