@@ -5,13 +5,10 @@ https://orangefox.download/device/mido
 - # 2. ADB
 https://developer.android.com/studio/releases/platform-tools#downloads
 
-- # 3. Magisk
-https://github.com/topjohnwu/Magisk/releases
-
-- # 4. Universal Android Debloater
+- # 3. Universal Android Debloater
 https://github.com/0x192/universal-android-debloater/releases
 
-- # 5. Neo-Droid
+- # 4. Neo-Droid
 https://github.com/NeoApplications/Neo-Store/releases
 
 # First Steps
