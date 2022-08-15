@@ -9,7 +9,6 @@ Octopi<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
 ThunderBird<br>
-Discord<br>
 VLC<br>
 OBS Studio<br>
 IntelliJ<br>
