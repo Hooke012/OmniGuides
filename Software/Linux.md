@@ -57,7 +57,6 @@ sudo micro /etc/hosts
 
 ```
 paru backintime
-paru betterdiscordctl
 paru bleachbit
 paru fastfetch
 paru flameshot
