@@ -18,19 +18,16 @@ Install NeoDroid<br>
 DEBLOAT 21<br>
 Reboot<br>
 Wifi<br>
-Magisk Install<br>
 
 ## Settings
 
 - ### Devleoper Mode
 
-About Phone --> Build Number
+System Management --> About Phone --> Software Version
 
 - ### Navigation
 
-Configuration --> Hardware
-
-- ### Default Apps
+Gestures
 # 
 
 Neo-Droid Setup: Repositories, Silent Install<br>
