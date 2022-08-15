@@ -61,6 +61,7 @@ paru bleachbit
 paru fastfetch
 paru flameshot
 paru freetube
+paru kotatogram
 paru noisetorch
 paru nyrna
 paru pdfarranger
