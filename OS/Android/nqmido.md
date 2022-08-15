@@ -1,14 +1,10 @@
-- # 1. Recovery
-https://dl.twrp.me/mido/
-https://orangefox.download/device/mido
-
-- # 2. ADB
+- # 1. ADB
 https://developer.android.com/studio/releases/platform-tools#downloads
 
-- # 3. Universal Android Debloater
+- # 2. Universal Android Debloater
 https://github.com/0x192/universal-android-debloater/releases
 
-- # 4. Neo-Droid
+- # 3. Neo-Droid
 https://github.com/NeoApplications/Neo-Store/releases
 
 # First Steps
