@@ -1,28 +1,17 @@
-- # 1. List of Custom Roms
-| Name | ROM Version |Android Version | Download Link(mido) |
-|-|:-:|:-:|-|
-| Havoc | 4.16 (Official) | 11 | https://havoc-os.com/device#mido |
-| Crdroid | 8.4 (Unofficial) | 12L | |
-| Corvus | | 10 |
-
-
-- # 2. Recovery
+- # 1. Recovery
 https://dl.twrp.me/mido/
 https://orangefox.download/device/mido
 
-- # 3. ADB
+- # 2. ADB
 https://developer.android.com/studio/releases/platform-tools#downloads
 
-- # 4. Magisk
+- # 3. Magisk
 https://github.com/topjohnwu/Magisk/releases
 
-- # 5. XiaomiADBFastBootTools
-https://github.com/Szaki/XiaomiADBFastbootTools/releases
-
-- # 6. Universal Android Debloater
+- # 4. Universal Android Debloater
 https://github.com/0x192/universal-android-debloater/releases
 
-- # 7. Neo-Droid
+- # 5. Neo-Droid
 https://github.com/NeoApplications/Neo-Store/releases
 
 # First Steps
