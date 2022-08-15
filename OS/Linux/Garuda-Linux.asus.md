@@ -4,39 +4,13 @@
 Get iso from [builds.garudalinux.org](builds.garudalinux.org)
 
 - ## Disk Management
-Erase Disk (when installing), okay?
-
-- ## Preventing the System Panic
-ALways make sure that the zen kernel is loaded from SHUTDOWN and NOT REBOOT.
+Create the first partition to be 150 gigs (for Garuda) and then 50 gigs for revios and the remanining as raw
 
 # II) Post-Install
 
 # First Steps
 
 1. Say no to the setup assistant, Do these.
-
-- ## Linux Kernel
-
-```
-sudo micro /etc/pacman.conf
-```
-
-```
-[g14]
-SigLevel = DatabaseNever Optional TrustAll
-Server = https://arch.asus-linux.org
-```
-
-Edit the default grub entry AND disable submenus
-
-```
-sudo pacman -Sy
-paru linux-g14
-sudo micro /etc/default/grub
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-```
-
--  # Reboot
 
 - ## Battery Threshold
 
@@ -53,7 +27,7 @@ StartLimitBurst=0
 [Service]
 Type=oneshot
 Restart=on-failure
-ExecStart=/bin/bash -c 'echo 80 > /sys/class/power_supply/BAT?/charge_control_end_threshold'
+ExecStart=/bin/bash -c 'echo 60 > /sys/class/power_supply/BAT?/charge_control_end_threshold'
 
 [Install]
 WantedBy=multi-user.target
