@@ -10,7 +10,7 @@ Coffee
 Forkgram
 Geometric Weather
 Infinity
-K-9 Mail
+FairEmail
 Koler
 Lawnchair
 Osmand+
