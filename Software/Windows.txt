@@ -6,8 +6,4 @@ choco upgrade chocolatey --force
 refreshenv
 choco feature enable -n allowGlobalConfirmation
 choco install 7zip --pre 
-choco install brave files playnite imageglass aimp vlc xdm office-tool obs-studio qbittorrent-enhanced wpd
-
-
-Webcord
-Rustdesk
+choco install brave files imageglass aimp vlc xdm office-tool obs-studio qbittorrent-enhanced wpd
