@@ -1,16 +1,16 @@
 ```
+Amaze File Manager
 Arcticons Dark
 Aurora Store
 Binary Eye
 Blokada 5
 Coffee
-<Office>
-<Calendar>
-<Keyboard>
+Collabora Office
+FlorisBoard
 Forkgram
 Geometric Weather
 Infinity
-FairEmail
+K-9 Mail
 Koler
 Lawnchair
 Osmand+
@@ -22,8 +22,8 @@ Proton Mail
 Randomix
 Scrambled Exif
 Simple Calculator
+Simple Calendar
 Simple Contacts
-<File Manager>
 Simple Gallery
 Termux
 Vector Camera
