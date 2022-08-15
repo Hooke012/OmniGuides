@@ -1,7 +1,7 @@
 # I) Pre-Install
 
 - ## ISO
-Get iso from [builds.garudalinux.org](builds.garudalinux.org)
+Get iso from [builds.garudalinux.org](https://builds.garudalinux.org)
 
 - ## Disk Management
 Create the first partition to be 150 gigs (for Garuda) and then 50 gigs for revios and the remanining as raw
