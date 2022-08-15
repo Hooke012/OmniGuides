@@ -57,18 +57,19 @@ sudo micro /etc/hosts
 
 ```
 paru backintime
-paru betterdiscordctl-git
+paru betterdiscordctl
 paru bleachbit
-paru fastfetch-git
-paru flameshot-git
+paru fastfetch
+paru flameshot
 paru freetube
+paru noisetorch
 paru nyrna
 paru pdfarranger
 paru protonvpn-gui
 paru qbittorrent-enhanced-qt5
-paru spotify-tray-git
+paru spotify-tray
 paru tesseract-gui
-paru touchpad-indicator-git
+paru touchpad-indicator
 paru whatsie-git
 paru xclicker
 paru webcord
