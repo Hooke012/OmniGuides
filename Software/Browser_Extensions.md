@@ -29,10 +29,8 @@ Detect Dark Theme
 ```
 | S.No. | Extension | Firefox | Chromium |
 |-|-|-|-|
-| 2. | ClearURLs | https://addons.mozilla.org/en-US/firefox/addon/clearurls/ | |
+|2.|Tabliss|https://addons.mozilla.org/en-US/firefox/addon/tabliss/| |
 | 3. | Bitwarden | https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/ | |
-| 4. | LocalCDN | https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/ | |
+|4.|SimpleLogin|https://addons.mozilla.org/en-US/firefox/addon/simplelogin/||
 | 5. | LibRedirect | https://addons.mozilla.org/en-US/firefox/addon/libredirect/ | |
-| 6. | UI.Vision RPA | https://addons.mozilla.org/en-US/firefox/addon/rpa/ | |
-| 7. | Violentmonkey | https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/ | |
-| 8. | xBrowserSync | https://addons.mozilla.org/en-GB/firefox/addon/xbs/ | |
+| 6. | Persepolis | https://addons.mozilla.org/en-US/firefox/addon/persepolis-dlm-integration/ | |
