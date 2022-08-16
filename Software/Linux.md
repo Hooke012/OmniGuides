@@ -73,7 +73,6 @@ paru touchpad-indicator
 paru whatsie-git
 paru xclicker
 paru webcord
-paru <tg?
 ```
 
 # 4. Proceed to Set up ALL of the apps
