@@ -58,6 +58,7 @@ sudo micro /etc/hosts
 ```
 paru backintime
 paru bleachbit
+paru electronmail
 paru fastfetch
 paru flameshot
 paru freetube
@@ -67,7 +68,6 @@ paru nyrna
 paru pdfarranger
 paru protonvpn-gui
 paru qbittorrent-enhanced-qt5
-paru spotify-tray
 paru tesseract-gui
 paru touchpad-indicator
 paru whatsie-git
