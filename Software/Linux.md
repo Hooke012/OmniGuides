@@ -76,6 +76,17 @@ paru webcord
 ```
 
 # 2. Portmaster when?
+
+```
+mkdir -p ~/Git
+cd ~/Git
+git clone https://github.com/safing/portmaster-packaging
+cd portmaster-packaging/linux
+makepkg -is
+sudo systemctl daemon-reload
+sudo systemctl enable --now portmaster
+```
+try
 ```
 sudo pacman -S libnetfilter_queue libappindicator-gtk3
 mkdir -p /opt/safing/portmaster
