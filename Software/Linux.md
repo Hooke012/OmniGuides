@@ -15,6 +15,14 @@ IntelliJ<br>
 VirtualBox<br>
 
 # 2. Portmaster when?
+```
+sudo pacman -S libnetfilter_queue libappindicator-gtk3
+mkdir -p /opt/safing/portmaster
+wget -O /tmp/portmaster-start https://updates.safing.io/latest/linux_amd64/start/portmaster-start
+sudo mv /tmp/portmaster-start /opt/safing/portmaster/portmaster-start
+sudo chmod a+x /opt/safing/portmaster/portmaster-start
+sudo /opt/safing/portmaster/portmaster-start --data /opt/safing/portmaster update
+```
 
 ```
 paru pi-hole-server
