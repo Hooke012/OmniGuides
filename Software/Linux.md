@@ -157,4 +157,9 @@ ExecStopPost=-/sbin/ip6tables -t mangle -F C171
 WantedBy=multi-user.target
 ```
 
+```
+sudo systemctl daemon-reload
+sudo systemctl enable --now portmaster
+```
+
 # 4. Proceed to Set up ALL of the apps
