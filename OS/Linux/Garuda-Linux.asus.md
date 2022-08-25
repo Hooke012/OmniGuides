@@ -10,7 +10,7 @@ Create the first partition to be 150 gigs (for Garuda) and then 50 gigs for revi
 
 # First Steps
 
-1. Say no to the setup assistant, Do these.
+1. Minimise the setup assistant, Do these.
 
 - ## Battery Threshold
 
