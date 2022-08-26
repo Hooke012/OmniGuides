@@ -1,11 +1,8 @@
+# Press q
+
 ```
 paru pi-hole-server
 systemctl start pihole-FTL.service
-```
-
-# holy frick... press q
-
-```
 paru php-sqlite
 sudo micro /etc/php/php.ini
 ```
