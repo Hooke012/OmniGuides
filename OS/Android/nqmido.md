@@ -26,6 +26,6 @@ System Management --> About Phone --> Software Version
 Gestures
 # 
 
-Neo-Droid Setup: Repositories, Silent Install<br>
+Neo-Droid Setup<br>
 
 # [PROCEED](https://github.com/Hooke012/OmniGuides/blob/main/Software/Android.md)
