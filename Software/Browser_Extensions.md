@@ -20,7 +20,8 @@ Add: * * 3p-frame block
 
 ## Other Addons
 
-### 1. Dark Reader>=<br>[Firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)<br>
+### 1. Dark Reader<br>
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)<br>
 [Chromium](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 ```
 Preview New Design
