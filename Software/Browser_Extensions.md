@@ -20,7 +20,8 @@ Add: * * 3p-frame block
 
 ## Other Addons
 
-### 1. [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) 
+### 1. Dark Reader>=<br>[Firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)<br>
+[Chromium](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 ```
 Preview New Design
 Apply
@@ -29,8 +30,8 @@ Detect Dark Theme
 ```
 | S.No. | Extension | Firefox | Chromium |
 |-|-|-|-|
-|2.|Tabliss|https://addons.mozilla.org/en-US/firefox/addon/tabliss/| |
+| 2. |Tabliss| https://addons.mozilla.org/en-US/firefox/addon/tabliss/ | |
 | 3. | Bitwarden | https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/ | |
-|4.|SimpleLogin|https://addons.mozilla.org/en-US/firefox/addon/simplelogin/||
+| 4. |SimpleLogin| https://addons.mozilla.org/en-US/firefox/addon/simplelogin/ | |
 | 5. | LibRedirect | https://addons.mozilla.org/en-US/firefox/addon/libredirect/ | |
 | 6. | Persepolis | https://addons.mozilla.org/en-US/firefox/addon/persepolis-dlm-integration/ | |
