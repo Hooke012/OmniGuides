@@ -1,5 +1,4 @@
 ```
-<download manager>
 Amaze File Manager
 Arcticons Dark
 Aurora Store
@@ -7,6 +6,7 @@ Binary Eye
 Blokada 5
 Coffee
 Collabora Office
+Download Navi
 FlorisBoard
 Forkgram
 Geometric Weather
