@@ -51,3 +51,8 @@ paru webcord
 ```
 
 # 4. Proceed to Set up ALL of the apps
+
+```
+cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
+cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
+```
