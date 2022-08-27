@@ -38,4 +38,6 @@ systemctl start battery-charge-threshold.service
 systemctl enable battery-charge-threshold.service
 ```
 
+# Run the bash files in `~/.config/autostart/`
+
 # [Proceed](https://github.com/Hooke012/OmniGuides/blob/main/Software/Linux.md)
