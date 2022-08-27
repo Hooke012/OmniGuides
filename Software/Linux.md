@@ -35,16 +35,12 @@ sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
 paru backintime
 paru bleachbit
 paru electronmail
-paru fastfetch
 paru flameshot
-paru freetube
 paru kotatogram
 paru noisetorch
 paru nyrna
 paru pdfarranger
 paru protonvpn-gui
-paru qbittorrent-enhanced-qt5
-paru tesseract-gui
 paru touchpad-indicator
 paru whatsie-git
 paru xclicker
