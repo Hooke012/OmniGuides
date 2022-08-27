@@ -24,6 +24,7 @@ cd portmaster-packaging/linux
 makepkg -is
 sudo systemctl daemon-reload
 sudo systemctl enable --now portmaster
+sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
 ```
 
 # Reboot
@@ -53,6 +54,5 @@ paru webcord
 # 4. Proceed to Set up ALL of the apps
 
 ```
-cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
 ```
